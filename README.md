@@ -15,20 +15,19 @@ Introduction a la programmation
 |--|--------|:-----------------------------------------------|:----------------------------------------|:------------------|
 |01|20-09-09|[0.GIT](0.GIT#Participation)                    | Mon premier compte sur github .         |                   |
 |02|20-09-16|[1.Python](1.Python/Participation.md)           | Mon premier programme en Python         |                   |
-|03|19-09-18|[2.REPL](2.REPL)                                | REPL et CLI                             | Chapitre 3        |
-|03|20-09-23|[3.Variables](4.Variables/Participation.md)     | Variables et expressions, basic types   | Chapitre 4, 5     |
-|04|20-09-30|[3.Strings](7.Strings/Participation.md)         | Etude sur les chaines de caracteres     | Chapitre 7, 8     |
-|05|20-10-07|[4.Tuples](8.Tuples/Participation.md)           | Etude sur les tuples                    | Chapitre 9, 10, 11|
-|06|20-10-14|[5.Conditions](9.Conditions/Participation.md)   | Etude sur la structure de controle      | Chapitre 13       |
-|07|20-10-21|[6.Decisions](B.Decisions)                      |                                         | Chapitre 14       |
-|08|20-10-28|[7.Loops](C.Loops/Participation.md)             | Etude sur les boucles .                 | Chapitre 16       |
-|09|20-11-04|[8.Functions](D.Functions/Participation.md)     | Funtions et Librairies                  | Chapitre 21, 35   |
-|10|20-11-11| Fin des cours                                  |                                         |                    |
-|11|20-11-18| Fin des cours                                  |                                         |                    |
-|12|20-11-25| Fin des cours                                  |                                         |                    |
-|13|20-12-02| Fin des cours                                  |                                         |                    |
-|14|20-12-09| Fin des cours                                  |                                         |                    |
-|15|20-12-16| Fin des cours                                  |                                         |                    |
+|03|20-09-23|[2.REPL](2.REPL)                                | REPL et CLI                             | Chapitre 3        |
+|04|20-09-30|[3.Variables](4.Variables/Participation.md)     | Variables et expressions, basic types   | Chapitre 4, 5     |
+|05|20-10-07|[3.Strings](7.Strings/Participation.md)         | Etude sur les chaines de caracteres     | Chapitre 7, 8     |
+|06|20-10-14|[4.Tuples](8.Tuples/Participation.md)           | Etude sur les tuples                    | Chapitre 9, 10, 11|
+|07|20-10-21|[5.Conditions](9.Conditions/Participation.md)   | Etude sur la structure de controle      | Chapitre 13       |
+|08|20-10-28|[6.Decisions](B.Decisions)                      |                                         | Chapitre 14       |
+|09|20-11-04|[7.Loops](C.Loops/Participation.md)             | Etude sur les boucles .                 | Chapitre 16       |
+|10|20-11-11|[8.Functions](D.Functions/Participation.md)     | Funtions et Librairies                  | Chapitre 21, 35   |
+|11|20-11-18| Fin des cours                                  |                                         |                   |
+|12|20-11-25| Fin des cours                                  |                                         |                   |
+|13|20-12-02| Fin des cours                                  |                                         |                   |
+|14|20-12-09| Fin des cours                                  |                                         |                   |
+|15|20-12-16| Fin des cours                                  |                                         |                   |
 
 ## :three: Concepts:
 
