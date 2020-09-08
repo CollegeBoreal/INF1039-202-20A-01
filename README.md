@@ -54,7 +54,7 @@ Introduction a la programmation
 |Site                                       | Lien                                          |  Commentaires    |
 |-------------------------------------------|-----------------------------------------------|------------------|
 | Get Programming Learn to code with PYTHON | https://www.manning.com/books/get-programming | :ledger: Book    |
-| Programming Paradigm                      | http://hiperc.buffalostate.edu/courses/ACM612-F15/uploads/ACM612/VanRoy-Programming.pdf |
+| Programming Paradigm                      | https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf | |
 
 
 # :six: [Glossaire](https://docs.scala-lang.org/glossary/):
