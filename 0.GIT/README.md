@@ -11,7 +11,7 @@ Créer votre compte sur https://github.com et veuillez fournir votre :id: github
 
 |:hash:| Boréal :id:| Nom, Prénoms .                       |  Github :id:                                          |
 |------|------------|--------------------------------------|-------------------------------------------------------| 
-|   01 |  300106677	| Decimus, Leonaldo	                   | [???](https://github.com/???) | 	
-|   02 |  300117791 | Wagoum Tchoupou, `Don De Miséricorde`| [???](https://github.com/???) | 	 
-|   03 |  300117811 | Cyrille `Sio` Mahan                  | [???](https://github.com/???) | 	
-|   04 |  300121460 | Henry, `Davidson`                    | [???](https://github.com/???) | 	
+|   01 |  300106677	| Decimus, `Leo`naldo	                 | [???](https://github.com/???) | 	
+|   02 |  300117791 | Wagoum Tchoupou, Don De `Misé`ricorde| [???](https://github.com/???) | 	 
+|   03 |  300117811 | Cyrille, Sio Mahan a.k.a `Mh`        | [???](https://github.com/???) | 	
+|   04 |  300121460 | Henry, Davidson a.k.a `Dave`         | [???](https://github.com/???) | 	
