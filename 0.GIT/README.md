@@ -13,5 +13,5 @@ Créer votre compte sur https://github.com et veuillez fournir votre :id: github
 |------|------------|--------------------------------------|-------------------------------------------------------| 
 |   01 |  300106677	| Decimus, `Leo`naldo	                 | [leonaldo1994](https://github.com/leonaldo1994) | 	
 |   02 |  300117791 | Wagoum Tchoupou, Don De `Misé`ricorde| [mise0202](https://github.com/mise0202) | 	 
-|   03 |  300117811 | Cyrille, Sio Mahan a.k.a `Mh`        | [???](https://github.com/???) | 	
+|   03 |  300117811 | Cyrille, Sio Mahan a.k.a `Mh`        | [sio-mh](https://github.com/sio-mh) | 	
 |   04 |  300121460 | Henry, Davidson a.k.a `Dave`         | [daveinfo20](https://github.com/daveinfo20) | 	
