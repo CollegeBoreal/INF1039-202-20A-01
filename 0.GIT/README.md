@@ -14,7 +14,7 @@ Créer votre compte sur https://github.com et veuillez fournir votre :id: github
 |   01 |  300106677	| Decimus, `Leo`naldo	               | [leonaldo1994](https://gitlab.com/leonaldo1994) | 	
 |   02 |  300115064 | Mouahhidi, `Naoufal`                 | [Naoufal27](https://gitlab.com/Naoufal27)       |
 |   03 |  300115206 | Ntando, `Jojo` Ikusola               | [itonga](https://gitlab.com/itonga) | 	 
-|   04 |  300117791 | Wagoum Tchoupou, Don De `Misé`ricorde| [mise0202](https://gitlab.com/mise0202) | 	 
+|   04 |  300117791 | Wagoum Tchoupou, Don De `Misé`ricorde| [DonMise](https://gitlab.com/DonMise) | 	 
 |   05 |  300117811 | Cyrille, `Sio` Mahan a.k.a `Mh`      | [sio-mh](https://gitlab.com/sio-mh) | 	
 |   06 |  300121460 | Henry, Davidson a.k.a `Dave`         | [daveinfo20](https://gitlab.com/daveinfo20) | 	
 |   07 |  300122014 | Bitja Makak, `Sylvain` Emmanuel      | [sylvainEmm](https://gitlab.com/sylvainEmm)      |
