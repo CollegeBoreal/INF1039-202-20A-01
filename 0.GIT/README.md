@@ -12,10 +12,10 @@ Créer votre compte sur https://github.com et veuillez fournir votre :id: github
 |:hash:| Boréal :id:| Nom, Prénoms .                       |  Github :id:                                          |
 |------|------------|--------------------------------------|-------------------------------------------------------| 
 |   01 |  300106677	| Decimus, `Leo`naldo	               | [leonaldo1994](https://github.com/leonaldo1994) | 	
-|   02 |  300115064 | Mouahhidi, Naoufal                   |       |
-|   03 |  300115206 | Ntando, Jojo Ikusola                 |       |
+|   02 |  300115064 | Mouahhidi, `Naoufal`                   |       |
+|   03 |  300115206 | Ntando, `Jojo` Ikusola                 |       |
 |   04 |  300117791 | Wagoum Tchoupou, Don De `Misé`ricorde| [mise0202](https://github.com/mise0202) | 	 
 |   05 |  300117811 | Cyrille, `Sio` Mahan a.k.a `Mh`      | [sio-mh](https://github.com/sio-mh) | 	
 |   06 |  300121460 | Henry, Davidson a.k.a `Dave`         | [daveinfo20](https://github.com/daveinfo20) | 	
-|   07 |  300122014 | Bitja Makak, Sylvain Emmanuel        |       |
+|   07 |  300122014 | Bitja Makak, `Sylvain` Emmanuel        |       |
 |   08 |  300122131 | Ebengue, Steve                       |       |
