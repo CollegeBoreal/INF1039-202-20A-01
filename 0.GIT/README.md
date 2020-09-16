@@ -18,4 +18,4 @@ Créer votre compte sur https://github.com et veuillez fournir votre :id: github
 |   05 |  300117811 | Cyrille, `Sio` Mahan a.k.a `Mh`      | [sio-mh](https://gitlab.com/sio-mh) | 	
 |   06 |  300121460 | Henry, Davidson a.k.a `Dave`         | [daveinfo20](https://gitlab.com/daveinfo20) | 	
 |   07 |  300122014 | Bitja Makak, `Sylvain` Emmanuel      | [sylvainEmm](https://gitlab.com/sylvainEmm)      |
-|   08 |  300122131 | Ebengue, Steve                       |       |
+|   08 |  300122131 | Ebengue, Steve                       | [emsed0](https://gitlab.com/emsed0)      |
