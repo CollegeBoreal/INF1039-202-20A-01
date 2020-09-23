@@ -12,7 +12,7 @@ $ brew cask install anaconda3
 :bulb: Windows
 
 ```
-> choco install anaconda3
+PS > choco install anaconda3
 ```
 
 
