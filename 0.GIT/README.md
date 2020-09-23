@@ -24,7 +24,7 @@ Créer votre compte sur https://github.com et veuillez fournir votre :id: github
 
 Brice: L'informatique c'est magique :tada:
 
-Leo:  j'aime le college boreal  : hallo:
+Leo:  j'aime le college boreal  : hallo: info
 
 Sio: Viperes
 
