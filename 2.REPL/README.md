@@ -6,7 +6,7 @@
 :apple: MacOS
 
 ```
-$ brew cask install anaconda
+$ brew cask install anaconda3
 ```
 
 :bulb: Windows
