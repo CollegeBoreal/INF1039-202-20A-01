@@ -1,7 +1,7 @@
 # Install
 
 
-## Avec un [PackageManager](https://github.com/CollegeBoreal/Tutoriels/tree/master/G.PackageManager)
+## Avec un [PackageManager](https://github.com/CollegeBoreal/Tutoriels/tree/master/P.Plateformes/P.PackageManager)
 
 :apple: MacOS
 
