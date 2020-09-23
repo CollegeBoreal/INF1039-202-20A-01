@@ -22,7 +22,7 @@ Créer votre compte sur https://github.com et veuillez fournir votre :id: github
 |   08 |  300122131 | Ebengue, Steve                       | [emsed0](https://gitlab.com/emsed0)      |
 
 
-Brice: L'informatique c'est magique
+Brice: L'informatique c'est magique :tada:
 
 Leo:  j'aime le college boreal
 
