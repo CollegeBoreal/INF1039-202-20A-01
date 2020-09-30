@@ -1,0 +1,8 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Wed Sep 30 15:29:00 2020
+
+@author: Admin
+"""
+
+print("Bonjour Le Monde\n")
