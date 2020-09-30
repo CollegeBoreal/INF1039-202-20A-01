@@ -9,7 +9,7 @@ s= "Bonjour le monde"
 print ("chaine de caractere", s)
  
 i=1
-print (" entier, i")
+print (" entier", i)
 
 d= 4.6
 print (" reel" , d)
