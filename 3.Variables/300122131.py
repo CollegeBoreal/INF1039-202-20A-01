@@ -1,8 +1,16 @@
 # -*- coding: utf-8 -*-
 """
-ID: 300122131
 
-Mon premier programme
+
+id: 300122131
 """
 
-print("Bonjour le monde\n")
+#structure de donnees: variable
+S= "Bonjour tout le monde"
+print("Chaine de caractere", S)
+
+i= 1
+Print("Entier", i)
+
+d= 4.6
+print("Reel",d)
