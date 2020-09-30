@@ -1,8 +1,16 @@
 # -*- coding: utf-8 -*-
 """
-ID: 300098957
+Created on Wed Sep 30 10:29:10 2020
 
-Mon premier programme Python
+@author: user
 """
 
-print("Bonjour le monde\n")
+# Structure de donnees: variable
+s = "Bonjour tout le monde!"
+print("Chaine de charactere", s)
+
+i = 1
+print("Entier", i)
+
+d = 4.6
+print("Reel",d)
