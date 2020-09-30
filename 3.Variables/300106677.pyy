@@ -1,0 +1,9 @@
+# -*- coding: utfh-8 -*-
+"""
+ID: 300106677
+
+structure de variable 
+"""
+
+a= "Bonjour le monde" 
+print (a)
