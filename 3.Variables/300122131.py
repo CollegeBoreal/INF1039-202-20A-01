@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Spyder Editor
+ID: 300122131
 
-This is a temporary script file.
+Mon premier programme
 """
 
-print("hello world")
+print("Bonjour le monde\n")
