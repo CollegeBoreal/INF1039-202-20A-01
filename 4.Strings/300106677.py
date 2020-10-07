@@ -1,3 +1,5 @@
+
+
 # -*- coding: utfh-8 -*-
 """
 ID: 300106677
@@ -12,17 +14,17 @@ i=1
 print (" entier", i)
 
 d= 4.6
-aprint (" reel" , d)
+print (" reel" , d)
 
 l = 'hello'
 
 
-nom = ''college''
+nom = "college"
 
 # pour la concatenation
 
 
 longueur = len(nom)
 
-print (l +  ' nom ' )
+print (l + " " +   nom  )
 
