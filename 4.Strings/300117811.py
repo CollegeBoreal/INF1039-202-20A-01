@@ -1,1 +1,2 @@
-print(1)
+s="hello world"
+print (s)
