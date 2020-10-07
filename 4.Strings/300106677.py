@@ -14,8 +14,15 @@ print (" entier", i)
 d= 4.6
 aprint (" reel" , d)
 
+l = 'hello'
+
+
 nom = ''college''
-concanation
+
+# pour la concatenation
+
 
 longueur = len(nom)
-print (nom chaine de caractere + + 'nom de ' )
+
+print (l +  ' nom ' )
+
