@@ -28,3 +28,6 @@ print(longueur)
 
 # f(x) = x + 1 - fonction algebraique - AlhKwarizmi
 
+
+print("indice 1 de S",s[1])
+
