@@ -20,6 +20,7 @@ Créer votre compte sur https://github.com et veuillez fournir votre :id: github
 |   06 |  300121460 | Henry, Davidson a.k.a `Dave`         | [daveinfo20](https://gitlab.com/daveinfo20) | 	
 |   07 |  300122014 | Bitja Makak, `Sylvain` Emmanuel      | [sylvainEmm](https://gitlab.com/sylvainEmm)      |
 |   08 |  300122131 | Ebengue, Steve                       | [emsed0](https://gitlab.com/emsed0)      |
+|   09 |  300122501 | Kande, Abdourahamane                 | [:x:]       |	
 
 
 Brice: L'informatique c'est magique :tada:
