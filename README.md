@@ -6,8 +6,8 @@ Introduction a la programmation
 
 |No| Date   | Cours                                          | Intitulé                                |  Commentaires    |
 |--|--------|:-----------------------------------------------|:----------------------------------------|:-----------------|
-|05|19-10-16|[1.Capstone-I](6.Capstone-I/Participation.md)   | Devoirs fin Unite 1                     |                  |
-|08|19-11-13|[2.Capstone-II](A.Capstone-II/Participation.md) | Devoirs fin Unite 2                     |                  |
+|05|20-10-16|[1.Capstone-I](1.Capstone-I/Participation.md)   | Devoirs fin Unite 1                     |                  |
+|08|20-11-13|[2.Capstone-II](A.Capstone-II/Participation.md) | Devoirs fin Unite 2                     |                  |
 
 ## :two: Elements de Performance
 
