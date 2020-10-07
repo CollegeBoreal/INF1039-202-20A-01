@@ -46,6 +46,7 @@ Introduction a la programmation
 |Site                                      | Lien                                         |  Commentaires                |
 |------------------------------------------|----------------------------------------------|------------------------------|
 | Python REPL                              |  https://www.python.org/shell/               |  Executer son code en ligne  |
+| REPL Python                              |  https://repl.it/languages/python3           |  Spyder en ligne             |
 
 
 
