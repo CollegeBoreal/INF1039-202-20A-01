@@ -1,4 +1,4 @@
 etudiant = ( "Leo" , 300106677 , "informaticien" )
-print(0)
-print(1)
-print(2)
+print(etudiant[0])
+print(etudiant[1])
+print(etudiant[2])
