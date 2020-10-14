@@ -28,7 +28,8 @@ test2:
   stage: test
   script:
     - echo "Do another parallel test here"
-    - echo "For example run a lint test"
+    - cd 4.Strings
+    - bash .scripts/participation.sh > .scripts/Participation.md 2>&1
 
 deploy1:
   stage: deploy
