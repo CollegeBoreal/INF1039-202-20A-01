@@ -1,13 +1,26 @@
-# Participation
+# Participation au 13-10-2020 20:21
 
-|:hash:| Boréal :id:| Fait |
-|------|------------|--------------------------------------|
-|   01 |  300106677	| :heavy_check_mark: | 	
-|   02 |  300115064 | :heavy_check_mark: | 	
-|   03 |  300115206 | :x:       |
-|   04 |  300117791 | :x:       |
-|   05 |  300117811 | :x:       |
-|   06 |  300121460 | :heavy_check_mark: | 	
-|   07 |  300122014 | :heavy_check_mark: | 	
-|   08 |  300122131 | :heavy_check_mark: | 	
-|   09 |  300122501 | :x:       |
+| Table des matières            | Description                                             |
+|-------------------------------|---------------------------------------------------------|
+| :a: [Présence](#a-présence)   | L'étudiant.e a fait son travail    :heavy_check_mark:   |
+| :b: [Précision](#b-précision) | L'étudiant.e a réussi son travail  :tada:               |
+
+## Légende
+
+| Signe              | Signification                 |
+|--------------------|-------------------------------|
+| :heavy_check_mark: | Prêt à être corrigé           |
+| :x:                | Projet inexistant             |
+
+## :a: Présence
+
+|:hash:| Boréal :id:                | Fait               |
+|------|----------------------------|--------------------|
+| 1 | [300106677](../300106677.py) | [:heavy_check_mark:] |
+| 2 | [300115064](../300115064.py) | [:heavy_check_mark:] |
+| 3 | [300115206](../300115206.py) | [:x:] |
+| 4 | [300117791](../300117791.py) | [:heavy_check_mark:] |
+| 5 | [300117811](../300117811.py) | [:heavy_check_mark:] |
+| 6 | [300121460](../300121460.py) | [:heavy_check_mark:] |
+| 7 | [300122014](../300122014.py) | [:heavy_check_mark:] |
+| 8 | [300122131](../300122131.py) | [:heavy_check_mark:] |
