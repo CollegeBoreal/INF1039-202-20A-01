@@ -14,6 +14,7 @@ before_script:
   - git remote --verbose
   - url_host=`git remote get-url origin | sed -e "s/https:\/\/gitlab-ci-token:.*@//g"`
   - git remote set-url origin "https://gitlab-ci-token:${CI_TAG_UPLOAD_TOKEN}@${url_host}"
+  - git remote --verbose
   
 after_script:
   - echo "After script section"
