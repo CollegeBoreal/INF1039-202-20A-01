@@ -31,6 +31,10 @@ test2:
     - cd 4.Strings
     - echo `pwd`
     - bash .scripts/participation.sh > .scripts/Participation.md 2>&1
+    - git status
+    - git add .scripts/Participation.md
+    - git commit --message "adding participation"
+    - git status
 
 deploy1:
   stage: deploy
