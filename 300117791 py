@@ -1,0 +1,18 @@
+#message d'acceuil
+acceuil="bienvenue dans mon programme "
+print(acceuil)
+# nombre de minute saisie par l'utilisateur
+saisi=float(input("entrer le nombre de minute"))
+#calcul de la division
+calcul=saisi/60
+#afficher l'heure
+heure=int(calcul)
+#calcul des minutes
+soustraire=calcul-heure
+#afficher les minutes arrondies
+minute=round(soustraire*60)
+#afficher le resultat final a l'utilisateur
+a="heure(s)"
+b="mminute(s)"
+print("votre nombre dheure est de " ,heure,a ,minute,b )
+
