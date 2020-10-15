@@ -12,6 +12,8 @@ before_script:
   - git config --global user.name "b300098957"
   - echo $CI_JOB_TOKEN
   - git remote --verbose
+  - url_host=`git remote get-url origin | sed -e "s/https:\/\/gitlab-ci-token:.*@//g"`
+  - git remote set-url origin "https://gitlab-ci-token:${CI_TAG_UPLOAD_TOKEN}@${url_host}"
   
 after_script:
   - echo "After script section"
