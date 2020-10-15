@@ -10,7 +10,7 @@ before_script:
   - apt-get update && apt-get -y upgrade git
   - git config --global user.email "300098957@collegeboreal.ca"
   - git config --global user.name "b300098957"
-  - git remote add origin https://$GIT_PUSH_ACCESS_TOKEN_NAME:$GIT_PUSH_ACCESS_TOKEN_NAME@gitlab.com/CollegeBoreal/INF1039-202-20A-01.git
+  - git remote --verbose
   
 after_script:
   - echo "After script section"
