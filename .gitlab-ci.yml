@@ -8,8 +8,8 @@ before_script:
   - echo "Before script section"
   - echo "For example you might run an update here or install a build dependency"
   - apt-get update && apt-get -y upgrade git
-  - git config --global user.email "300098957@collegeboreal.ca"
-  - git config --global user.name "b300098957"
+  - git config --global user.email ${GITLAB_USER_EMAIL}
+  - git config --global user.name ${GITLAB_USER_LOGIN}
   - echo $CI_JOB_TOKEN
   - git remote --verbose
   - url_host=`git remote get-url origin | sed -e "s/https:\/\/gitlab-ci-token:.*@//g"`
