@@ -10,6 +10,7 @@ before_script:
   - apt-get update && apt-get -y upgrade git
   - git config --global user.email "300098957@collegeboreal.ca"
   - git config --global user.name "b300098957"
+  - echo $CI_JOB_TOKEN
   - git remote --verbose
   
 after_script:
