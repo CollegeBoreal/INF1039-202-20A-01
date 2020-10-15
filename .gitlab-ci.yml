@@ -33,6 +33,8 @@ test2:
     - bash .scripts/participation.sh > .scripts/Participation.md 2>&1
     - git status
     - git add .scripts/Participation.md
+    - git config --global user.email "300098957@collegeboreal.ca"
+    - git config --global user.name "b300098957"
     - git commit --message "adding participation"
     - git status
 
