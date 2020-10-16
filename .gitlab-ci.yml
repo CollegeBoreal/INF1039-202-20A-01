@@ -71,6 +71,7 @@ test2:
     - echo `pwd`
     - bash .scripts/participation.sh > .scripts/Participation.md 2>&1
     - git status
+    - git show-ref
     - git add .scripts/Participation.md
     - git commit --message "adding participation"
     - git status
