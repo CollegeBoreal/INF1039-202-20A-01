@@ -38,14 +38,19 @@ before_script:
   - ssh-keyscan gitlab.com >> ~/.ssh/known_hosts
   - chmod 644 ~/.ssh/known_hosts
 
-
-  - apt-get update && apt-get -y upgrade git
+  ##
+  ## Setup your git environment by adjusting the commiter information and enabling SSH on push
+  ##
+  ## - apt-get update && apt-get -y upgrade git
   - git config --global user.email ${GITLAB_USER_EMAIL}
   - git config --global user.name ${GITLAB_USER_LOGIN}
-  ## - echo $CI_JOB_TOKEN
-  ## - git remote --verbose
   - git remote set-url origin git@gitlab.com:CollegeBoreal/INF1039-202-20A-01.git
-  - git remote --verbose
+
+
+  ##
+  ## To verify all your environment variables uncomment the following lines
+  ## warning: this may show your private SSH key
+  ##
   ## - export
   
 after_script:
@@ -66,20 +71,18 @@ test1:
 test2:
   stage: test
   script:
-    - echo "Do another parallel test here"
+    - echo "Evaluating chapter 4.Strings Student Participation"
     - cd 4.Strings
-    - echo `pwd`
     - bash .scripts/participation.sh > .scripts/Participation.md 2>&1
-    - git status
-    - git show-ref
     - git add .scripts/Participation.md
     - git commit --message "adding participation"
-    - git status
-    - git show-ref
-    ## Push issues when using refs/pipelines/* 
-    ## --all doesn't generate an error but no changes are seen 
-    ## - git push --all
-    ## - git push -o merge_request.create -o merge_request.target=master -o merge_request.merge_when_pipeline_succeeds
+
+    ##
+    ## Push issues 
+    ## git show-ref shows that gitlab uses refs/pipelines/* 
+    ## git push --all doesn't generate an error but no changes are seen HEAD:master reference fixes the issue
+    ## git push --push-option=ci.skip is needed otherwise another pipeline is created
+    ##
     - git push --push-option=ci.skip origin HEAD:master
 
 deploy1:
