@@ -80,7 +80,7 @@ test2:
     ## --all doesn't generate an error but no changes are seen 
     ## - git push --all
     ## - git push -o merge_request.create -o merge_request.target=master -o merge_request.merge_when_pipeline_succeeds
-    - git push origin HEAD:master
+    - git push --push-option=ci.skip origin HEAD:master
 
 deploy1:
   stage: deploy
