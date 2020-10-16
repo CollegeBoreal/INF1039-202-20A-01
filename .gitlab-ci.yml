@@ -76,7 +76,7 @@ test2:
     - git commit --message "adding participation"
     - git status
     - git show-ref
-    - git push --set-upstream origin master
+    - git push --all
 
 deploy1:
   stage: deploy
