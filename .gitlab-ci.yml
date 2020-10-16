@@ -76,7 +76,8 @@ test2:
     - git commit --message "adding participation"
     - git status
     - git show-ref
-    - git push --all
+    ## - git push --all
+    - git push -o merge_request.create -o merge_request.target=master -o merge_request.merge_when_pipeline_succeeds
 
 deploy1:
   stage: deploy
