@@ -6,6 +6,7 @@ image: ubuntu:latest
 
 before_script:
   ##
+  ## https://docs.gitlab.com/ee/ci/ssh_keys/
   ## Install ssh-agent if not already installed, it is required by Docker.
   ## (change apt-get to yum if you use an RPM-based image)
   ##
