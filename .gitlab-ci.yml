@@ -74,6 +74,7 @@ test2:
     - git add .scripts/Participation.md
     - git commit --message "adding participation"
     - git status
+    - git show-ref
     - git push origin master
 
 deploy1:
