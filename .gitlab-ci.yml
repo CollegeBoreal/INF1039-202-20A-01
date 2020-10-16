@@ -68,7 +68,7 @@ test1:
     - echo "Do a test here"
     - echo "For example run a test suite"
 
-test2:
+4.Strings:
   stage: test
   script:
     - echo "Evaluating chapter 4.Strings Student Participation"
