@@ -40,8 +40,8 @@ before_script:
 
 
   - apt-get update && apt-get -y upgrade git
-  ## - git config --global user.email ${GITLAB_USER_EMAIL}
-  ## - git config --global user.name ${GITLAB_USER_LOGIN}
+  - git config --global user.email ${GITLAB_USER_EMAIL}
+  - git config --global user.name ${GITLAB_USER_LOGIN}
   ## - echo $CI_JOB_TOKEN
   ## - git remote --verbose
   - git remote set-url origin git@gitlab.com:CollegeBoreal/INF1039-202-20A-01.git
