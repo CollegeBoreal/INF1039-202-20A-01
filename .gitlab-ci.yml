@@ -101,6 +101,28 @@ build1:
     - git commit --message "adding participation"
     - git push --push-option=ci.skip origin HEAD:master
 
+5.Tuples:
+  stage: test
+  script:
+    - echo "Evaluating chapter 5.Tuples Student Participation"
+    - git pull origin HEAD:master
+    - cd 5.Tuples
+    - bash .scripts/run.sh
+    - git add .
+    - git commit --message "adding participation"
+    - git push --push-option=ci.skip origin HEAD:master
+
+A.Capstone-I:
+  stage: test
+  script:
+    - echo "Evaluating chapter A.Capstone-I Student Participation"
+    - git pull origin HEAD:master
+    - cd A.Capstone-I
+    - bash .scripts/run.sh
+    - git add .
+    - git commit --message "adding participation"
+    - git push --push-option=ci.skip origin HEAD:master
+
 deploy1:
   stage: deploy
   script:
