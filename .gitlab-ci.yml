@@ -68,17 +68,11 @@ build1:
   script:
     - echo "Do your build here"
 
-test1:
+3.Variables
   stage: test
   script:
-    - echo "Do a test here"
-    - echo "For example run a test suite"
-
-4.Strings:
-  stage: test
-  script:
-    - echo "Evaluating chapter 4.Strings Student Participation"
-    - cd 4.Strings
+    - echo "Evaluating chapter 3.Variables Student Participation"
+    - cd 3.Variables
     - bash .scripts/run.sh
     - git add .
     - git commit --message "adding participation"
@@ -90,6 +84,16 @@ test1:
     ## git push --all doesn't generate an error but no changes are seen HEAD:master reference fixes the issue
     ## git push --push-option=ci.skip is needed otherwise another pipeline is created
     ##
+    - git push --push-option=ci.skip origin HEAD:master
+
+4.Strings:
+  stage: test
+  script:
+    - echo "Evaluating chapter 4.Strings Student Participation"
+    - cd 4.Strings
+    - bash .scripts/run.sh
+    - git add .
+    - git commit --message "adding participation"
     - git push --push-option=ci.skip origin HEAD:master
 
 deploy1:
