@@ -57,7 +57,7 @@ before_script:
   ##
   ## Install Python
   ##
-  - apt-get install build-essential libssl-dev libffi-dev python3-dev -y
+  - 'which python || ( apt-get install python3-dev -y )'
   
 after_script:
   - echo "After script section"
