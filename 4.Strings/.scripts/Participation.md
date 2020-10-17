@@ -1,4 +1,4 @@
-# Participation au 17-10-2020 01:01
+# Participation au 16-10-2020 21:03
 
 ## Légende
 
@@ -6,7 +6,9 @@
 |--------------------|-------------------------------|
 | :heavy_check_mark: | Prêt à être corrigé           |
 | :x:                | Projet inexistant             |
-\n## Résultat\n
+
+## Résultat
+
 |:hash:| Boréal :id:                | :100:              |
 |------|----------------------------|--------------------|
 | 1 | [300106677](../300106677.py) | [:heavy_check_mark:](Correction.md#etudiant-300106677) |
