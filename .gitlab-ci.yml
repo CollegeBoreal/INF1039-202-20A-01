@@ -59,7 +59,7 @@ before_script:
   ##
   - apt-get install software-properties-common -y
   - add-apt-repository ppa:deadsnakes/ppa
-  - apt-get update -y && apt-get install python3.8 -y
+  - DEBIAN_FRONTEND=noninteractive && apt-get update -y && apt-get install python3.8 -y
   
 after_script:
   - echo "After script section"
