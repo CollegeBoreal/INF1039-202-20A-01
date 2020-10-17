@@ -90,6 +90,7 @@ build1:
   stage: test
   script:
     - echo "Evaluating chapter 4.Strings Student Participation"
+    - git pull
     - cd 4.Strings
     - bash .scripts/run.sh
     - git add .
