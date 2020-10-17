@@ -1,21 +1,18 @@
-# Corrections au 17-10-2020 03:01
+# Corrections au 17-10-2020 10:19
 
 ## Etudiant 300106677 
 ###  =[BEGIN]============== Exécution du script 300106677 =============== 
 ```
-chaine de caractere Bonjour le monde
- entier 1
- reel 4.6
-hello college
+Leo
+300106677
+informaticien
 ```
 ###  =[END]============== Exécution du script 300106677 =============== 
 ## Etudiant 300115064 
 ###  =[BEGIN]============== Exécution du script 300115064 =============== 
 ```
-  File "300115064.py", line 5
-    else:
-    ^
-SyntaxError: invalid syntax
+h
+Naoufal
 ```
 ###  =[END]============== Exécution du script 300115064 =============== 
 ## Etudiant 300115206 
@@ -27,43 +24,46 @@ python3: can't open file '300115206.py': [Errno 2] No such file or directory
 ## Etudiant 300117791 
 ###  =[BEGIN]============== Exécution du script 300117791 =============== 
 ```
-1
+python3: can't open file '300117791.py': [Errno 2] No such file or directory
 ```
 ###  =[END]============== Exécution du script 300117791 =============== 
 ## Etudiant 300117811 
 ###  =[BEGIN]============== Exécution du script 300117811 =============== 
 ```
-hello world
+A
+cyrille
+Traceback (most recent call last):
+  File "300117811.py", line 5, in <module>
+    cyrille
+NameError: name 'cyrille' is not defined
 ```
 ###  =[END]============== Exécution du script 300117811 =============== 
 ## Etudiant 300121460 
 ###  =[BEGIN]============== Exécution du script 300121460 =============== 
 ```
-Le caractère est:
- a
-La chaine de caractère est:
- Bonjour à tous!
-La longueur de la chaine est:
- 29
-La concatenation des chaines est:
- Bonjour à tous! Bienvenue dans le cours 1042!
+L'affichage du tuple est:
+ ('Davidson Henry', 300121460)
+L'affichage de l'indice 0 de mon tuple est:
+ Davidson Henry
+L'affichage de l'indice 1 de mon tuple est:
+ 300121460
 ```
 ###  =[END]============== Exécution du script 300121460 =============== 
 ## Etudiant 300122014 
 ###  =[BEGIN]============== Exécution du script 300122014 =============== 
 ```
-a
-Bonjour
-Bonjour Boreal
-6
+A
+sylvain
+300122014
+enseignant
 ```
 ###  =[END]============== Exécution du script 300122014 =============== 
 ## Etudiant 300122131 
 ###  =[BEGIN]============== Exécution du script 300122131 =============== 
 ```
-a
-bonjour
-bonjour boreal
-6
+Traceback (most recent call last):
+  File "300122131.py", line 4, in <module>
+    print(steve[0])
+NameError: name 'steve' is not defined
 ```
 ###  =[END]============== Exécution du script 300122131 =============== 
