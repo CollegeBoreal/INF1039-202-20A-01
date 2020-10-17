@@ -67,13 +67,8 @@ after_script:
   - echo "After script section"
   - echo "For example you might do some cleanup here"
 
-build1:
-  stage: build
-  script:
-    - echo "Do your build here"
-
 Corrections:
-  stage: test
+  stage: build
   script:
     ##
     ## Evaluating chapter 3.Variables Student Participation
@@ -117,9 +112,4 @@ Corrections:
     ## git push --all doesn't generate an error but no changes are seen HEAD:master reference fixes the issue
     ## git push --push-option=ci.skip is needed otherwise another pipeline is created
     ##
-    - git push --push-option=ci.skip origin HEAD:master
-
-deploy1:
-  stage: deploy
-  script:
-    - echo "Do your deploy here"
+    - git push origin HEAD:master
