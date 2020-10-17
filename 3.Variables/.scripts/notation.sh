@@ -18,7 +18,7 @@ do
    echo "###  =[BEGIN]============== Exécution du script ${id} =============== "
    echo "\`\`\`"
 
-   python ${id}.py
+   python3 ${id}.py
 
 
    echo "\`\`\`"
