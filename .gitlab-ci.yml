@@ -58,6 +58,9 @@ before_script:
   ## Install Python
   ##
   - apt-get install -y python3-dev
+  - shopt -s expand_aliases
+  - alias python=python3
+
   
 after_script:
   - echo "After script section"
