@@ -110,6 +110,6 @@ Corrections:
     ## https://docs.gitlab.com/ee/user/project/push_options.html
     ## git show-ref shows that gitlab uses refs/pipelines/* 
     ## git push --all doesn't generate an error but no changes are seen HEAD:master reference fixes the issue
-    ## git push --push-option=ci.skip is needed otherwise another pipeline is created
+    ## git push --push-option=ci.skip is needed otherwise another pipeline is endlessly created
     ##
-    - git push origin HEAD:master
+    - git push --push-option=ci.skip origin HEAD:master
