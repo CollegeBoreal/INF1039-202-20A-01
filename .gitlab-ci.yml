@@ -10,7 +10,7 @@ before_script:
   ## Install ssh-agent if not already installed, it is required by Docker.
   ## (change apt-get to yum if you use an RPM-based image)
   ##
-  - 'which ssh-agent || ( apt-get update -y && apt-get install openssh-client git -y )'
+  - 'which ssh-agent || ( apt-get update -qy && apt-get install openssh-client git -y )'
 
   ##
   ## Run ssh-agent (inside the build environment)
@@ -57,9 +57,7 @@ before_script:
   ##
   ## Install Python
   ##
-  - apt-get install software-properties-common -y
-  - add-apt-repository ppa:deadsnakes/ppa
-  - apt-get install python3.8 -y
+  - apt-get install -y python3-dev
   
 after_script:
   - echo "After script section"
