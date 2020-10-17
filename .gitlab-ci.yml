@@ -74,8 +74,8 @@ test1:
   script:
     - echo "Evaluating chapter 4.Strings Student Participation"
     - cd 4.Strings
-    - bash .scripts/participation.sh > .scripts/Participation.md 2>&1
-    - git add .scripts/Participation.md
+    - bash .scripts/run.sh
+    - git add .
     - git commit --message "adding participation"
 
     ##
