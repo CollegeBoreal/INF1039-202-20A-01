@@ -57,7 +57,9 @@ before_script:
   ##
   ## Install Python
   ##
-  - 'which python || ( apt-get install python3-dev -y )'
+  - apt-get install software-properties-common -y
+  - add-apt-repository ppa:deadsnakes/ppa
+  - apt-get update -y && apt-get install python3.8 -y
   
 after_script:
   - echo "After script section"
