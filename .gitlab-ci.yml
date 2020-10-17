@@ -72,6 +72,7 @@ build1:
   stage: test
   script:
     - echo "Evaluating chapter 3.Variables Student Participation"
+    - git pull origin HEAD:master
     - cd 3.Variables
     - bash .scripts/run.sh
     - git add .
