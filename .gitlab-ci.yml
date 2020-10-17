@@ -56,6 +56,7 @@ before_script:
 
   ##
   ## Install Python
+  ## Warning Python Alias is not working
   ##
   - apt-get install -y python3-dev
   - shopt -s expand_aliases
@@ -71,13 +72,41 @@ build1:
   script:
     - echo "Do your build here"
 
-3.Variables:
+Corrections:
   stage: test
   script:
+    ##
+    ## Evaluating chapter 3.Variables Student Participation
+    ## 
     - echo "Evaluating chapter 3.Variables Student Participation"
-    - git pull origin HEAD:master
     - cd 3.Variables
     - bash .scripts/run.sh
+
+    ##
+    ## Evaluating chapter 4.Strings Student Participation
+    ## 
+    - echo "Evaluating chapter 4.Strings Student Participation"
+    - cd ../4.Strings
+    - bash .scripts/run.sh
+
+    ##
+    ## Evaluating chapter 5.Tuples Student Participation
+    ## 
+    - echo "Evaluating chapter 5.Tuples Student Participation"
+    - cd ../5.Tuples
+    - bash .scripts/run.sh
+
+    ##
+    ## Evaluating chapter A.Capstone-I Student Participation
+    ## 
+    - echo "Evaluating chapter A.Capstone-I Student Participation"
+    - git pull origin HEAD:master
+    - cd ../A.Capstone-I
+    - bash .scripts/run.sh
+
+    ##
+    ## Add all edited files
+    ## 
     - git add .
     - git commit --message "adding participation"
 
@@ -90,41 +119,7 @@ build1:
     ##
     - git push --push-option=ci.skip origin HEAD:master
 
-4.Strings:
-  stage: test
-  script:
-    - echo "Evaluating chapter 4.Strings Student Participation"
-    - git pull origin HEAD:master
-    - cd 4.Strings
-    - bash .scripts/run.sh
-    - git add .
-    - git commit --message "adding participation"
-    - git push --push-option=ci.skip origin HEAD:master
-
-5.Tuples:
-  stage: test
-  script:
-    - echo "Evaluating chapter 5.Tuples Student Participation"
-    - git pull origin HEAD:master
-    - cd 5.Tuples
-    - bash .scripts/run.sh
-    - git add .
-    - git commit --message "adding participation"
-    - git push --push-option=ci.skip origin HEAD:master
-
-A.Capstone-I:
-  stage: test
-  script:
-    - echo "Evaluating chapter A.Capstone-I Student Participation"
-    - git pull origin HEAD:master
-    - cd A.Capstone-I
-    - bash .scripts/run.sh
-    - git add .
-    - git commit --message "adding participation"
-    - git push --push-option=ci.skip origin HEAD:master
-
 deploy1:
   stage: deploy
   script:
     - echo "Do your deploy here"
-    - git status
