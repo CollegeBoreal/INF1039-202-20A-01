@@ -68,7 +68,7 @@ build1:
   script:
     - echo "Do your build here"
 
-3.Variables
+3.Variables:
   stage: test
   script:
     - echo "Evaluating chapter 3.Variables Student Participation"
