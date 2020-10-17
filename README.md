@@ -4,10 +4,13 @@ Introduction a la programmation
 
 ## :one: [Devoirs](Devoirs)
 
-|No| Date   | Cours                                          | Intitulé                                |  Commentaires    |
-|--|--------|:-----------------------------------------------|:----------------------------------------|:-----------------|
-|05|20-10-16|[1.Capstone-I](1.Capstone-I)   | Devoirs fin Unite 1                     |                  |
-|08|20-11-13|[2.Capstone-II](A.Capstone-II) | Devoirs fin Unite 2                     |                  |
+|No| Date   | Cours                         | Intitulé               |  Commentaires                                       |
+|--|--------|:------------------------------|:-----------------------|:----------------------------------------------------|
+|01|20-10-16|[3.Variables](3.Variables)     | Devoirs sur Variables  | [:student:](3.Variables/.scripts/Participation.md)  |
+|05|20-10-16|[4.Strings](4.Strings)         | Devoirs sur Strings    | [:student:](4.Strings/.scripts/Participation.md)    |
+|05|20-10-16|[5.Tuples](5.Tuples)           | Devoirs sur Tuples     | [:student:](5.Tuples/.scripts/Participation.md)     |
+|05|20-10-16|[1.Capstone-I](1.Capstone-I)   | Devoirs fin Unite 1    | [:student:](A.Capstone-I/.scripts/Participation.md) |
+|08|20-11-??|[2.Capstone-II](A.Capstone-II) | Devoirs fin Unite 2    | [:student:](B.Capstone-II/.scripts/Participation.md)|
 
 ## :two: Elements de Performance
 
