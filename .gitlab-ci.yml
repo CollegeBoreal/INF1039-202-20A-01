@@ -53,6 +53,11 @@ before_script:
   ## warning: this may show your private SSH key
   ##
   ## - export
+
+  ##
+  ## Install Python
+  ##
+  - sudo apt install -y build-essential libssl-dev libffi-dev python3-dev
   
 after_script:
   - echo "After script section"
