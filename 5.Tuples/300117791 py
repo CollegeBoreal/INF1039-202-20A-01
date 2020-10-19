@@ -1,0 +1,5 @@
+etudiant=("mise",300117791,"programmeur") 
+print(etudiant[0])
+print(etudiant[1])
+print(etudiant[2])
+          
