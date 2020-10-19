@@ -1,4 +1,4 @@
-test - # INF1039-202-19A-01 (Gitlab)
+# INF1039-202-19A-01 (Gitlab)
 
 Introduction a la programmation
 
