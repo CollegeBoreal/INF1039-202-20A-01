@@ -1,0 +1,62 @@
+name: PyTest Action Job
+
+on: [push]
+
+jobs:
+  run-script:
+    name: Run script
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        python-version: [3.8]
+        # python-version: [3.5, 3.6, 3.7, 3.8]
+
+    steps:
+      - uses: actions/checkout@v1
+      - name: Set up Python ${{ matrix.python-version }}
+        uses: actions/setup-python@v1
+        with:
+          python-version: ${{ matrix.python-version }}
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+      - name: Test with pytest
+        run: |
+          pip install --requirement .scripts/requirements.txt
+      - shell: bash
+        run: |
+          ##
+          ## Evaluating chapter 3.Variables Student Participation
+          ## 
+          echo "Evaluating chapter 3.Variables Student Participation"
+          cd 3.Variables
+          bash .scripts/run.sh
+          ##
+          ## Evaluating chapter 4.Strings Student Participation
+          ## 
+          echo "Evaluating chapter 4.Strings Student Participation"
+          cd ../4.Strings
+          bash .scripts/run.sh
+          ##
+          ## Evaluating chapter 5.Tuples Student Participation
+          ## 
+          echo "Evaluating chapter 5.Tuples Student Participation"
+          cd ../5.Tuples
+          bash .scripts/run.sh
+          ##
+          ## Evaluating chapter A.Capstone-I Student Participation
+          ## 
+          echo "Evaluating chapter A.Capstone-I Student Participation"
+          git pull origin HEAD:master
+          cd ../A.Capstone-I
+          bash .scripts/run.sh
+      - name: Commit files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git commit -m "Correction Chapitre 7.BFS" -a
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
