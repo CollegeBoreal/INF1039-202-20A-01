@@ -27,7 +27,7 @@ Introduction a la programmation
 |09|20-11-04|[7.Decisions](7.Decisions)                      |                                         | Chapitre 14       |
 |10|20-11-11|[8.Loops](8.Loops)                              | Etude sur les boucles .                 | Chapitre 16       |
 |11|20-11-18|[9.Functions](9.Functions)                      | Funtions et Librairies                  | Chapitre 21, 35   |
-|12|20-11-25|[A.Programmation Fonctionnelle](A.FP)           |                                         |                   |
+|12|20-11-25|[F.Programmation Fonctionnelle](F.FP)           |                                         |                   |
 |13|20-12-02|                                                |                                         |                   |
 |14|20-12-09|                                                |                                         |                   |
 |15|20-12-16| Fin des cours                                  |                                         |                   |
