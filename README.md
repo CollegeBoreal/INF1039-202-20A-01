@@ -36,7 +36,7 @@ Introduction a la programmation
 
 - [Data Structure](https://docs.python.org/3/tutorial/datastructures.html)
 - [Functional Programming](F.FP) (programmer avec fonctions)
-- lamba functions (anonymous functions)
+- [lamba functions](F.FP#m-anonymous-functions) (anonymous functions)
 - [HoF](F.FP#m-hof-higher-order-function) (Higher Order Function)
 - [Functions](https://docs.python.org/3/library/functions.html)
 
