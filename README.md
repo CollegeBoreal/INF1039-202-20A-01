@@ -34,11 +34,9 @@ Introduction a la programmation
 
 ## :three: Concepts:
 
-- [Data Structure](https://twitter.github.io/scala_school/collections.html)
-- Functional Programming (programmer avec fonctions)
+- [Data Structure](https://docs.python.org/3/tutorial/datastructures.html)
+- [Functional Programming](F.FP) (programmer avec fonctions)
 - lamba functions (anonymous functions)
-- HOF (Higher-Order Function) - 
-- Pattern Matching
 - [Functions](https://docs.python.org/3/library/functions.html)
 
 ```
