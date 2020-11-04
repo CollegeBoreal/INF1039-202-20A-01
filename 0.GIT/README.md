@@ -2,6 +2,8 @@
 
 Créer votre compte sur https://github.com et veuillez fournir votre :id: github
 
+Installer [git bash](https://github.com/CollegeBoreal/Tutoriels/tree/master/0.GIT) sur votre PC 
+
 :pushpin: Les différents stades de l'évolution d'un fichier dans le monde `git` 
 
 <image src="staging.png" width="580" height="340"></image>
