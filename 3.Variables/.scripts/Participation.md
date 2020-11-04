@@ -1,4 +1,4 @@
-# Participation au 03-11-2020 20:17
+# Participation au 04-11-2020 15:26
 
 ## Légende
 
@@ -13,7 +13,7 @@
 |------|----------------------------|--------------------|
 | 1 | [300106677](../300106677.py) | [:heavy_check_mark:](Correction.md#etudiant-300106677) |
 | 2 | [300115064](../300115064.py) | [:heavy_check_mark:](Correction.md#etudiant-300115064) |
-| 3 | [300115206](../300115206.py) | [:x:](Correction.md#etudiant-300115206) |
+| 3 | [300115206](../300115206.py) | [:heavy_check_mark:](Correction.md#etudiant-300115206) |
 | 4 | [300117791](../300117791.py) | [:x:](Correction.md#etudiant-300117791) |
 | 5 | [300117811](../300117811.py) | [:x:](Correction.md#etudiant-300117811) |
 | 6 | [300121460](../300121460.py) | [:heavy_check_mark:](Correction.md#etudiant-300121460) |

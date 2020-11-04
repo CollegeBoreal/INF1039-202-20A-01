@@ -1,4 +1,4 @@
-# Corrections au 03-11-2020 20:17
+# Corrections au 04-11-2020 15:26
 
 ## Etudiant 300106677 
 ###  =[BEGIN]============== Exécution du script 300106677 =============== 
@@ -17,7 +17,6 @@ chaine de caractere Bonjour le monde
 ## Etudiant 300115206 
 ###  =[BEGIN]============== Exécution du script 300115206 =============== 
 ```
-python3: can't open file '300115206.py': [Errno 2] No such file or directory
 ```
 ###  =[END]============== Exécution du script 300115206 =============== 
 ## Etudiant 300117791 
