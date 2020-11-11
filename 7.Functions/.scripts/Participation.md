@@ -1,4 +1,4 @@
-# Participation au 11-11-2020 11:38
+# Participation au 11-11-2020 11:39
 \n
 | Table des matières            | Description                                             |
 |-------------------------------|---------------------------------------------------------|
@@ -12,7 +12,7 @@
 \n## :a: Présence\n
 |:hash:| Boréal :id:                | Fait               |
 |------|----------------------------|--------------------|
-| 1 | [300106677](../b300106677.py) | [:x:](Execution.md#etudiant-300106677) |
+| 1 | [300106677](../b300106677.py) | [:heavy_check_mark:](Execution.md#etudiant-300106677) |
 | 2 | [300115064](../b300115064.py) | [:x:](Execution.md#etudiant-300115064) |
 | 3 | [300115206](../b300115206.py) | [:x:](Execution.md#etudiant-300115206) |
 | 4 | [300117791](../b300117791.py) | [:x:](Execution.md#etudiant-300117791) |
@@ -29,7 +29,7 @@
 \n## :b: Précision\n
 |:hash:| Boréal :id:                |  Notation         |
 |------|----------------------------|-------------------|
-| 1 | [300106677](../b300106677.py) | [:x:](Execution.md#etudiant-300106677) |
+| 1 | [300106677](../b300106677.py) | [:tada:](Execution.md#etudiant-300106677) |
 | 2 | [300115064](../b300115064.py) | [:x:](Execution.md#etudiant-300115064) |
 | 3 | [300115206](../b300115206.py) | [:x:](Execution.md#etudiant-300115206) |
 | 4 | [300117791](../b300117791.py) | [:x:](Execution.md#etudiant-300117791) |
