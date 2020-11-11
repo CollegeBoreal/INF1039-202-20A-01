@@ -1,4 +1,4 @@
-# Participation au 11-11-2020 06:43
+# Participation au 11-11-2020 11:46
 
 | Table des matières            | Description                                             |
 |-------------------------------|---------------------------------------------------------|
@@ -37,8 +37,7 @@
 
 |:hash:| Boréal :id:                |  Notation         |
 |------|----------------------------|-------------------|
-.scripts/notation.sh: /usr/local/bin/pytest: /usr/local/opt/python@2/bin/python2.7: bad interpreter: No such file or directory
-| 1 | [300106677](../b300106677.py) | [:x:](Execution.md#etudiant-300106677) |
+| 1 | [300106677](../b300106677.py) | [:tada:](Execution.md#etudiant-300106677) |
 | 2 | [300115064](../b300115064.py) | [:x:](Execution.md#etudiant-300115064) |
 | 3 | [300115206](../b300115206.py) | [:x:](Execution.md#etudiant-300115206) |
 | 4 | [300117791](../b300117791.py) | [:x:](Execution.md#etudiant-300117791) |
