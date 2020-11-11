@@ -51,6 +51,11 @@ jobs:
           git pull origin HEAD:master
           cd ../A.Capstone-I
           bash .scripts/run.sh
+          ##
+          ## Evaluating chapter 7.Functions Student Participation
+          ## 
+          cd ../7.Functions
+          bash .scripts/run.sh
       - name: Commit files
         run: |
           git config --local user.email "action@github.com"
