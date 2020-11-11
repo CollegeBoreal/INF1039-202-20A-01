@@ -1,4 +1,4 @@
-# Execution au 11-11-2020 16:28
+# Execution au 11-11-2020 16:35
 
 ## Etudiant 300106677 
 ###  =[BEGIN]============== Exécution du script 300106677 =============== 
@@ -37,7 +37,6 @@ python: can't open file 'b300117811.py': [Errno 2] No such file or directory
 ## Etudiant 300121460 
 ###  =[BEGIN]============== Exécution du script 300121460 =============== 
 ```
-python: can't open file 'b300121460.py': [Errno 2] No such file or directory
 ```
 ###  =[END]============== Exécution du script 300121460 =============== 
 
