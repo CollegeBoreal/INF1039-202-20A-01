@@ -1,3 +1,9 @@
+# -*- coding: utf-8 -*-
+"""
+ID: 300098957
+Strings 
+"""
+
 def add_sub(n1, n2):
     add = n1 + n2
     sub = n1 - n2
