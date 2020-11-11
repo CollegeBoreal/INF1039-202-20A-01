@@ -8,7 +8,9 @@
 
 source ../.scripts/students.sh --source-only
 
-echo "\n## Légende\n"
+echo ""
+echo "## Légende"
+echo ""
 
 echo "| Signe              | Signification                 |"
 echo "|--------------------|-------------------------------|"
@@ -16,7 +18,9 @@ echo "| :tada:             | S'est bien éxécuté            |"
 echo "| :x:                | A un problème dans le code    |"
 
 
-echo "\n## :b: Précision\n"
+echo ""
+echo "## :b: Précision"
+echo ""
 echo "|:hash:| Boréal :id:                |  Notation         |"
 echo "|------|----------------------------|-------------------|"
 
