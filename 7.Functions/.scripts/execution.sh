@@ -15,7 +15,8 @@ echo "# Execution au `date +"%d-%m-%Y %H:%M"`"
 for id in "${ETUDIANTS[@]}"
 do
 
-   echo "\n## Etudiant ${id} "
+   echo ""
+   echo "## Etudiant ${id} "
    echo "###  =[BEGIN]============== Exécution du script ${id} =============== "
    echo "\`\`\`"
 
