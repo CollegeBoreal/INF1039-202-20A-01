@@ -1,4 +1,4 @@
-# Corrections au 18-11-2020 14:46
+# Corrections au 18-11-2020 14:54
 
 ## Etudiant 300106677 
 ###  =[BEGIN]============== Exécution du script 300106677 =============== 
@@ -30,7 +30,11 @@ Reel 4.6
 ## Etudiant 300117811 
 ###  =[BEGIN]============== Exécution du script 300117811 =============== 
 ```
-python3: can't open file '300117811.py': [Errno 2] No such file or directory
+bonjour boreal
+
+chaine de caractere BONJOUR BOREAL
+entier 1
+reel 4.5
 ```
 ###  =[END]============== Exécution du script 300117811 =============== 
 ## Etudiant 300121460 
