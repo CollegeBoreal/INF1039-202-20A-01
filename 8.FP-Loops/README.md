@@ -40,3 +40,28 @@ def main():
    
 if __name__ == '__main__':
     main()
+```
+
+- [ ] Éxécuter le programme Python
+
+```
+$ python b300098957.py
+```
+
+- [ ] L'ajouter à `git`
+
+```
+$ git add .
+```
+
+- [ ] Signer son code
+
+```
+$ git commit --message "Mon programme en python :snake:"
+```
+
+- [ ] L'envoyer sur `github.com`
+
+```
+$ git push
+```
