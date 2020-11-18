@@ -7,9 +7,10 @@ Introduction a la programmation
 |No| Date   | Cours                         | Intitulé               |  Commentaires                                       |
 |--|--------|:------------------------------|:-----------------------|:----------------------------------------------------|
 |01|20-10-16|[3.Variables](3.Variables)     | Devoirs sur Variables  | [:student:](3.Variables/.scripts/Participation.md)  |
-|05|20-10-16|[4.Strings](4.Strings)         | Devoirs sur Strings    | [:student:](4.Strings/.scripts/Participation.md)    |
-|05|20-10-16|[5.Tuples](5.Tuples)           | Devoirs sur Tuples     | [:student:](5.Tuples/.scripts/Participation.md)     |
-|05|20-10-16|[A.Capstone-I](A.Capstone-I)   | Devoirs fin Unite 1    | [:student:](A.Capstone-I/.scripts/Participation.md) |
+|02|20-10-16|[4.Strings](4.Strings)         | Devoirs sur Strings    | [:student:](4.Strings/.scripts/Participation.md)    |
+|03|20-10-16|[5.Tuples](5.Tuples)           | Devoirs sur Tuples     | [:student:](5.Tuples/.scripts/Participation.md)     |
+|04|20-10-16|[A.Capstone-I](A.Capstone-I)   | Devoirs fin Unite 1    | [:student:](A.Capstone-I/.scripts/Participation.md) |
+|05|20-11-18|[7.Functions](7.Functions)     | Devoirs sur fonctions  | [:student:](7.Functions/.scripts/Participation.md)  |
 |08|20-11-??|[B.Capstone-II](B.Capstone-II) | Devoirs fin Unite 2    | [:student:](B.Capstone-II/.scripts/Participation.md)|
 
 ## :two: Elements de Performance
