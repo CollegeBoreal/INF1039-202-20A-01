@@ -38,5 +38,5 @@ def fonction_1():
 def main():
    fonction_1()
    
-if __main__:
-   main()
+if __name__ == '__main__':
+    main()
