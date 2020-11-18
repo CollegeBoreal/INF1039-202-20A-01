@@ -1,4 +1,4 @@
-# Execution au 18-11-2020 14:29
+# Execution au 18-11-2020 14:39
 
 ## Etudiant 300106677 
 ###  =[BEGIN]============== Exécution du script 300106677 =============== 
@@ -43,10 +43,6 @@ python: can't open file 'b300117811.py': [Errno 2] No such file or directory
 ## Etudiant 300122014 
 ###  =[BEGIN]============== Exécution du script 300122014 =============== 
 ```
-  File "b300122014.py", line 1
-    def add_sub(n1,n2)
-                     ^
-SyntaxError: invalid syntax
 ```
 ###  =[END]============== Exécution du script 300122014 =============== 
 
