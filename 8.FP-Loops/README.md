@@ -51,7 +51,7 @@ $ python b300098957.py
 - [ ] L'ajouter à `git`
 
 ```
-$ git add .
+$ git add ./
 ```
 
 - [ ] Signer son code
