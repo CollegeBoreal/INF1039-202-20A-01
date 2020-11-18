@@ -1,4 +1,4 @@
-def add_sub(n1,n2)
+def add_sub(n1,n2):
     add = n1 + n2
     sub = n1 - n2
     return (add,sub)
