@@ -1,4 +1,4 @@
-# Corrections au 25-11-2020 09:35
+# Corrections au 25-11-2020 17:00
 
 ## Etudiant 300106677 
 ###  =[BEGIN]============== Exécution du script 300106677 =============== 
@@ -12,10 +12,7 @@ hello college
 ## Etudiant 300115064 
 ###  =[BEGIN]============== Exécution du script 300115064 =============== 
 ```
-  File "300115064.py", line 5
-    else:
-    ^
-SyntaxError: invalid syntax
+Bonjour
 ```
 ###  =[END]============== Exécution du script 300115064 =============== 
 ## Etudiant 300115206 
