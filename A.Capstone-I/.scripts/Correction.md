@@ -1,66 +1,69 @@
 # Corrections au 01-12-2020 19:17
 
 ## Etudiant 300106677 
-###  =[BEGIN]============== Exécution du script 300106677 =============== 
+###  =[BEGIN - <image src='https://avatars0.githubusercontent.com/u/71027895?s=460&v=4' width=20 height=20></image> ]============== Exécution du script 300106677 =============== 
 ```
-hours
-hours_part
-minutes
-minutes_part
+chaine de caractere Bonjour le monde
+ entier 1
+ reel 4.6
 ```
-###  =[END]============== Exécution du script 300106677 =============== 
+###  =[END - <image src='https://avatars0.githubusercontent.com/u/71027895?s=460&v=4' width=20 height=20></image> ]=============== Exécution du script 300106677 =============== 
 ## Etudiant 300115064 
-###  =[BEGIN]============== Exécution du script 300115064 =============== 
+###  =[BEGIN - <image src='https://avatars0.githubusercontent.com/u/72874987?s=460&v=4' width=20 height=20></image> ]============== Exécution du script 300115064 =============== 
 ```
+ Bonjour Tous le monde
 ```
-###  =[END]============== Exécution du script 300115064 =============== 
+###  =[END - <image src='https://avatars0.githubusercontent.com/u/72874987?s=460&v=4' width=20 height=20></image> ]=============== Exécution du script 300115064 =============== 
 ## Etudiant 300115206 
-###  =[BEGIN]============== Exécution du script 300115206 =============== 
+###  =[BEGIN - <image src='https://avatars0.githubusercontent.com/u/73952068?s=460&v=4' width=20 height=20></image> ]============== Exécution du script 300115206 =============== 
 ```
-python3: can't open file '300115206.py': [Errno 2] No such file or directory
 ```
-###  =[END]============== Exécution du script 300115206 =============== 
+###  =[END - <image src='https://avatars0.githubusercontent.com/u/73952068?s=460&v=4' width=20 height=20></image> ]=============== Exécution du script 300115206 =============== 
 ## Etudiant 300117791 
-###  =[BEGIN]============== Exécution du script 300117791 =============== 
+###  =[BEGIN - <image src='https://avatars0.githubusercontent.com/u/73952191?s=460&v=4' width=20 height=20></image> ]============== Exécution du script 300117791 =============== 
 ```
-python3: can't open file '300117791.py': [Errno 2] No such file or directory
+Chaine de charactere Bonjour tout le monde!
+Entier 1
+Reel 4.6
 ```
-###  =[END]============== Exécution du script 300117791 =============== 
+###  =[END - <image src='https://avatars0.githubusercontent.com/u/73952191?s=460&v=4' width=20 height=20></image> ]=============== Exécution du script 300117791 =============== 
 ## Etudiant 300117811 
-###  =[BEGIN]============== Exécution du script 300117811 =============== 
+###  =[BEGIN - <image src='https://avatars0.githubusercontent.com/u/71027809?s=460&v=4' width=20 height=20></image> ]============== Exécution du script 300117811 =============== 
 ```
-python3: can't open file '300117811.py': [Errno 2] No such file or directory
+bonjour boreal
+
+chaine de caractere BONJOUR BOREAL
+entier 1
+reel 4.5
 ```
-###  =[END]============== Exécution du script 300117811 =============== 
+###  =[END - <image src='https://avatars0.githubusercontent.com/u/71027809?s=460&v=4' width=20 height=20></image> ]=============== Exécution du script 300117811 =============== 
 ## Etudiant 300121460 
-###  =[BEGIN]============== Exécution du script 300121460 =============== 
+###  =[BEGIN - <image src='https://avatars0.githubusercontent.com/u/71027883?s=460&v=4' width=20 height=20></image> ]============== Exécution du script 300121460 =============== 
 ```
-******************
-The hour is:
- 2
-******************
-The minutes are:
- 3
-******************
+Chaine de caractère: Bonjour tout le monde!
+C'est un entier: 1
+C'est un réel: 4.6
+Entrer la valeur de a:Traceback (most recent call last):
+  File "300121460.py", line 21, in <module>
+    a=float(input("Entrer la valeur de a:"))
+EOFError: EOF when reading a line
 ```
-###  =[END]============== Exécution du script 300121460 =============== 
+###  =[END - <image src='https://avatars0.githubusercontent.com/u/71027883?s=460&v=4' width=20 height=20></image> ]=============== Exécution du script 300121460 =============== 
 ## Etudiant 300122014 
-###  =[BEGIN]============== Exécution du script 300122014 =============== 
+###  =[BEGIN - <image src='https://avatars0.githubusercontent.com/u/71392439?s=460&v=4' width=20 height=20></image> ]============== Exécution du script 300122014 =============== 
 ```
-bienvenue dans mon programme de conversion
-entrer le nombre de minuteTraceback (most recent call last):
-  File "300122014.py", line 6, in <module>
-    a=float(input("entrer le nombre de minute"))
-EOFError: EOF when reading a line
+bonjour le monde
+
+chaine de caractere BONJOUR TOUT LE MONDE!
+entier 1
+reel 4.5
 ```
-###  =[END]============== Exécution du script 300122014 =============== 
+###  =[END - <image src='https://avatars0.githubusercontent.com/u/71392439?s=460&v=4' width=20 height=20></image> ]=============== Exécution du script 300122014 =============== 
 ## Etudiant 300122131 
-###  =[BEGIN]============== Exécution du script 300122131 =============== 
+###  =[BEGIN - <image src='https://avatars0.githubusercontent.com/u/71394111?s=460&v=4' width=20 height=20></image> ]============== Exécution du script 300122131 =============== 
 ```
-bienvenue dans mon programme de conversion
-entrer le nombre de minuteTraceback (most recent call last):
-  File "300122131.py", line 12, in <module>
-    a=float(input("entrer le nombre de minute"))
-EOFError: EOF when reading a line
+Chaine de caractere Bonjour tout le monde
+Entier 1
+Reel 4.6
 ```
-###  =[END]============== Exécution du script 300122131 =============== 
+###  =[END - <image src='https://avatars0.githubusercontent.com/u/71394111?s=460&v=4' width=20 height=20></image> ]=============== Exécution du script 300122131 =============== 
