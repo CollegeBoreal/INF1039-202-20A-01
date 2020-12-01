@@ -4,7 +4,7 @@ import pytest
 @pytest.fixture
 def bypass():
    from b300117811 import add_sub
-   return add_sub(3,4) 
+   return fonction_1() 
  
 def test_answer(bypass):
-   assert bypass == (7,-1)
+   assert bypass == [0, 2, 4, 6, 8, 10, 12, 14, 16, 18, 20]
