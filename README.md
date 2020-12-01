@@ -2,6 +2,8 @@
 
 Introduction a la programmation
 
+## Épreuves: [:date:](.epreuves)
+
 ## :one: [Devoirs](Devoirs)
 
 |No| Date   | Cours                         | Intitulé               |  Commentaires                                       |
