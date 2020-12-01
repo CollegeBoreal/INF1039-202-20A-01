@@ -54,6 +54,9 @@
 >>> [ f(x) for x in range(10) if g(x) ]
 ```
 
+## :m: [Monad_(category_theory)](https://en.wikipedia.org/wiki/Monad_(category_theory))
+
+
 ### :m: HoF (Higher Order Function)
 
 
@@ -68,8 +71,6 @@ g = twice(f)
 
 print g(7)  
 ```
-## [Monad_(category_theory)](https://en.wikipedia.org/wiki/Monad_(category_theory))
-
 ### :m: Functor [map](https://www.w3schools.com/python/ref_func_map.asp)
 
 :pushpin: `map(function, iterables)`
