@@ -61,11 +61,18 @@ jobs:
           ## 
           cd ../7.Functions
           bash .scripts/run.sh
+          ##
+          ## Evaluating chapter 8.FP-Loops Student Participation
+          ## 
+          cd ../8.FP-Loops
+          bash .scripts/run.sh
+
       - name: Commit files
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git commit -m "Correction des devoirs" -a
+
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
