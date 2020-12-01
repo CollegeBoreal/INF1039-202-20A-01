@@ -37,7 +37,7 @@ do
    else
        OK_FILE="[:x:]"
    fi
-   OK="| ${i} | [${id}](../${FILE}) - ${U_AVATAR} | ${OK_FILE} | [:construction:](.scripts/Correction.md#etudiant-${id}) | "
+   OK="| ${i} | [${id}](../${FILE}) - ${U_AVATAR} | ${OK_FILE} | [:construction:](Correction.md#etudiant-${id}) | "
    echo ${OK}
    let "i++"
 done
