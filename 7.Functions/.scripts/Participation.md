@@ -1,4 +1,4 @@
-# Participation au 01-12-2020 18:15
+# Participation au 01-12-2020 18:30
 
 | Table des matières            | Description                                             |
 |-------------------------------|---------------------------------------------------------|
@@ -24,7 +24,6 @@
 | 6 | [300121460](../b300121460.py) | [:heavy_check_mark:](Execution.md#etudiant-300121460) |
 | 7 | [300122014](../b300122014.py) | [:heavy_check_mark:](Execution.md#etudiant-300122014) |
 | 8 | [300122131](../b300122131.py) | [:x:](Execution.md#etudiant-300122131) |
-| 9 | [300122501](../b300122501.py) | [:x:](Execution.md#etudiant-300122501) |
 
 ## Légende
 
@@ -45,4 +44,3 @@
 | 6 | [300121460](../b300121460.py) | [:tada:](Execution.md#etudiant-300121460) |
 | 7 | [300122014](../b300122014.py) | [:tada:](Execution.md#etudiant-300122014) |
 | 8 | [300122131](../b300122131.py) | [:x:](Execution.md#etudiant-300122131) |
-| 9 | [300122501](../b300122501.py) | [:x:](Execution.md#etudiant-300122501) |

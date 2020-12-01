@@ -1,4 +1,4 @@
-# Participation au 01-12-2020 18:15
+# Participation au 01-12-2020 18:30
 
 ## Légende
 
@@ -19,4 +19,3 @@
 | 6 | [300121460](../300121460.py) | [:heavy_check_mark:](Correction.md#etudiant-300121460) |
 | 7 | [300122014](../300122014.py) | [:heavy_check_mark:](Correction.md#etudiant-300122014) |
 | 8 | [300122131](../300122131.py) | [:heavy_check_mark:](Correction.md#etudiant-300122131) |
-| 9 | [300122501](../300122501.py) | [:x:](Correction.md#etudiant-300122501) |
