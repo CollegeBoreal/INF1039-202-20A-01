@@ -5,6 +5,12 @@
 
 https://github.com/CollegeBoreal/Tutoriels/blob/master/1.Languages/0.Programming/Paradigm.md
 
+- [ ] Logic Programming
+
+- [ ] Functionnal Programming
+
+- [ ] Imperative Programming
+
 :m: Les Structure de Données
 
 https://github.com/CollegeBoreal/Tutoriels/blob/master/1.Languages/0.Programming/DataStructures.md
