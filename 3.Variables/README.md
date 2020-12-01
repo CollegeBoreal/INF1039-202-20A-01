@@ -1,9 +1,9 @@
 # 4. Variables et Types
 
 
-:m: Les paradigmes en programmation
+:m: Les paradigmes en [programmation](https://github.com/CollegeBoreal/Tutoriels/tree/master/1.Languages/0.Programming)
 
-https://github.com/CollegeBoreal/Tutoriels/tree/master/1.Languages/0.Programming
+https://github.com/CollegeBoreal/Tutoriels/blob/master/1.Languages/0.Programming/Paradigm.md
 
 :m: Les Structure de Données
 
