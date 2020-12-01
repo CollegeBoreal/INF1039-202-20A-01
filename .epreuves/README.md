@@ -13,7 +13,8 @@
 | :hash:    | Type    | Description                                         |:infinity:| Statut           |
 |-----------|---------|-----------------------------------------------------|----------|------------------|
 | :one:     | Quizz   | Pre Test                                            | 20       | :+1:             |
-| :two:     | Quizz   | Fonctions.                                          | 25       | :calendar:       |
-| :three:   | Quizz   | Final                                               | 30       | :calendar:       |
-| :four:    | Participation  | Exercices Python                             | 25       | :calendar:       |
+| :two:     | Participation  | Devoirs Python avant les fonctions         | 15       | :+1:             |
+| :three:   | Quizz   | Fonctions.                                          | 25       | :calendar:       |
+| :four:    | Participation  | Devoirs Python après les fonctions         | 15       | :calendar:       |
+| :five:    | Quizz   | Final                                               | 25       | :calendar:       |
 |:wavy_dash:|         |                                                     |:100:     |                  |
