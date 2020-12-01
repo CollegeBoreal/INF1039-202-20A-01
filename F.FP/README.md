@@ -1,9 +1,5 @@
 # FP
 
-<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1)">
-
-<div align="center"><img src="https://render.githubusercontent.com/render/math?math=P(x)%20%3D%20%5Cfrac%7B1%7D%7B%5Csigma%5Csqrt%7B2%5Cpi%7D%7D%20e%5E%7B%5Cfrac%7B-(x-%5Cmu)%5E2%7D%7B2%5Csigma%5E2%7D%7D%0D"></div>
-
 ### :m: Set Comprehensions
 
 :pushpin: Mathematical Notation
@@ -118,3 +114,13 @@ https://en.wikipedia.org/wiki/Comparison_of_programming_languages_(list_comprehe
 ### Unpacking
 
 https://stackoverflow.com/questions/6967632/unpacking-extended-unpacking-and-nested-extended-unpacking/6968451#6968451
+
+
+### Math in MarkDown
+
+https://gist.github.com/a-rodin/fef3f543412d6e1ec5b6cf55bf197d7b
+
+<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1)">
+
+<div align="center"><img src="https://render.githubusercontent.com/render/math?math=P(x)%20%3D%20%5Cfrac%7B1%7D%7B%5Csigma%5Csqrt%7B2%5Cpi%7D%7D%20e%5E%7B%5Cfrac%7B-(x-%5Cmu)%5E2%7D%7B2%5Csigma%5E2%7D%7D%0D"></div>
+
