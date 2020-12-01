@@ -6,7 +6,7 @@ Dans la lecture de l'`Unité 1` du livre, montrez quelques examples de variables
 
 Par example:
 
-```
+```python
 s= "Bonjour le monde" 
 print ("chaine de caractere", s)
  
