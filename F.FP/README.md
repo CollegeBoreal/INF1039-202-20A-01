@@ -118,6 +118,8 @@ https://stackoverflow.com/questions/6967632/unpacking-extended-unpacking-and-nes
 
 ### Math in MarkDown
 
+http://www.sciweavers.org/free-online-latex-equation-editor
+
 https://gist.github.com/a-rodin/fef3f543412d6e1ec5b6cf55bf197d7b
 
 <img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1)">
