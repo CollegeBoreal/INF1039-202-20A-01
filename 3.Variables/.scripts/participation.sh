@@ -37,7 +37,7 @@ do
    else
        OK_FILE="[:x:]"
    fi
-   OK="| ${i} | [${id}](../${id}) - ${U_AVATAR} | ${OK_FILE} | "
+   OK="| ${i} | [${id}](../${FILE}) - ${U_AVATAR} | ${OK_FILE} | "
    echo ${OK}
    let "i++"
 done
