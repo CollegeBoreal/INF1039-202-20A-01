@@ -8,7 +8,7 @@ Introduction a la programmation
 
 |No| Date   | Cours                         | Intitulé               |  Commentaires                                       |
 |--|--------|:------------------------------|:-----------------------|:----------------------------------------------------|
-|00|20-10-14|[0.GIT](0.GIT)                 | Devoirs sur GIT.       | [:student:](0.GIT/.scripts/Participation.md)  |
+|00|20-10-14|[0.GIT](0.GIT)                 | Devoirs sur GIT.       | [:student:](.scripts/Participation.md)  |
 |01|20-10-21|[3.Variables](3.Variables)     | Devoirs sur Variables  | [:student:](3.Variables/.scripts/Participation.md)  |
 |02|20-10-28|[4.Strings](4.Strings)         | Devoirs sur Strings    | [:student:](4.Strings/.scripts/Participation.md)    |
 |03|20-11-04|[5.Tuples](5.Tuples)           | Devoirs sur Tuples     | [:student:](5.Tuples/.scripts/Participation.md)     |
