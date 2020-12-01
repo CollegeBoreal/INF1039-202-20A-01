@@ -2,7 +2,7 @@
 
 Introduction a la programmation
 
-## Épreuves: [:date:](.epreuves)
+## :date: [Épreuves](.epreuves)
 
 ## :one: [Devoirs](Devoirs)
 
