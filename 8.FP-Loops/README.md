@@ -33,10 +33,10 @@ Created on <changer la date>
 """
 
 def fonction_1():
-   return 0
+   return [ x for x in range(0,21) if x % 2 == 0 ]
    
 def main():
-   fonction_1()
+   print (fonction_1())
    
 if __name__ == '__main__':
     main()
