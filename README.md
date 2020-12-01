@@ -27,7 +27,7 @@ Introduction a la programmation
 |04|20-09-30|[3.Variables](3.Variables)                      | Variables et expressions, basic types   | Chapitre 4, 5     |
 |05|20-10-07|[4.Strings](4.Strings)                          | Etude sur les chaines de caracteres     | Chapitre 7, 8     |
 |06|20-10-14|[5.Tuples](5.Tuples)                            | Etude sur les tuples                    | Chapitre 9, 10, 11|
-|07|20-10-21|                                                |                                         | Chapitre 13       |
+|07|20-10-21|                                                |                                         |                   |
 |08|20-10-28| Autumn Break                                   |                                         |                   |
 |09|20-11-04|[7.Functions](7.Functions)                      | Funtions et Librairies                  | Chapitre 21, 35   |
 |10|20-11-11|[8.FP-Loops](8.FP-Loops)                        | Etude sur les boucles .                 | Chapitre 16       |
