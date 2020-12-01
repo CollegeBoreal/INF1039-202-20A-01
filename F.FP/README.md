@@ -92,6 +92,8 @@ print g(7)
 
 :pushpin: `reduce(function, iterables)`
 
+<img src="http://www.sciweavers.org/tex2img.php?eq=%20%5Csum_1%5En%20f%28x%29&bc=White&fc=Black&im=png&fs=12&ff=arev&edit=0" align="center" border="0" alt=" \sum_1^n f(x)" width="61" height="50" />
+
 ```
 >>> from functools import reduce
 >>> reduce(lambda x, y: x + y, [ x for x in range(10) ])
