@@ -70,7 +70,7 @@ g = twice(f)
 
 print g(7)  
 ```
-
+## [Monad_(category_theory)](https://en.wikipedia.org/wiki/Monad_(category_theory))
 
 ### :m: Functor [map](https://www.w3schools.com/python/ref_func_map.asp)
 
