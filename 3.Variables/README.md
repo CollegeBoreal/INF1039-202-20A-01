@@ -1,6 +1,10 @@
 # 4. Variables et Types
 
+- [ ] Les paradigmes en programmation
+
 https://github.com/CollegeBoreal/Tutoriels/tree/master/1.Languages/0.Programming
+
+- [ ] Programmer les variables et types
 
 Dans la lecture de l'`Unité 1` du livre, montrez quelques examples de variables et de types.
 
