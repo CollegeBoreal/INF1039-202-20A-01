@@ -27,6 +27,11 @@ jobs:
       - shell: bash
         run: |
           ##
+          ## Evaluating chapter 0.GIT Student Participation
+          ## 
+          echo "Evaluating chapter 0.GIT Student Participation"
+          bash .scripts/run.sh
+          ##
           ## Evaluating chapter 3.Variables Student Participation
           ## 
           echo "Evaluating chapter 3.Variables Student Participation"
