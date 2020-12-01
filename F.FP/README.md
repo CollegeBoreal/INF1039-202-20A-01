@@ -1,6 +1,6 @@
 # FP
 
-### :m: Set Comprehensions
+## :a: Set Comprehensions
 
 :pushpin: Mathematical Notation
 
@@ -45,6 +45,8 @@
 >>> head, *tail = [x for x in range(10)]
 ```
 
+## :b: [Monad_(category_theory)](https://en.wikipedia.org/wiki/Monad_(category_theory))
+
 ### :m: Anonymous functions
 
 ```
@@ -53,9 +55,6 @@
 >>> g = lambda x: x % 2 == 0
 >>> [ f(x) for x in range(10) if g(x) ]
 ```
-
-## :m: [Monad_(category_theory)](https://en.wikipedia.org/wiki/Monad_(category_theory))
-
 
 ### :m: HoF (Higher Order Function)
 
