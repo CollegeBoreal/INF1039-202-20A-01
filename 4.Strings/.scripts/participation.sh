@@ -23,21 +23,21 @@ echo "| :x:                | Projet inexistant             |"
 echo ""
 echo "## Résultat"
 echo ""
-echo "|:hash:| Boréal :id:                | :100:              |"
-echo "|------|----------------------------|--------------------|"
+echo "|:hash:| Boréal :id:                | Fait               | Éxécution |"
+echo "|------|----------------------------|--------------------|-----------|"
 
-i=1
-
+i=0
 
 for id in "${ETUDIANTS[@]}"
 do
+   U_AVATAR="<image src='https://avatars0.githubusercontent.com/u/${AVATARS[$i]}?s=460&v=4' width=20 height=20></image>"
    FILE=${id}.py
-   OK="| ${i} | [${id}](../${FILE}) | [:heavy_check_mark:](Correction.md#etudiant-${id}) | "
-   KO="| ${i} | [${id}](../${FILE}) | [:x:](Correction.md#etudiant-${id})                | "
    if [ -f "$FILE" ]; then
-       echo ${OK}
+       OK_FILE="[:heavy_check_mark:](../${FILE})"
    else
-       echo ${KO}
+       OK_FILE="[:x:]"
    fi
+   OK="| ${i} | [${id}](../${FILE}) - ${U_AVATAR} | ${OK_FILE} | [:construction:](Correction.md#etudiant-${id}) | "
+   echo ${OK}
    let "i++"
 done
