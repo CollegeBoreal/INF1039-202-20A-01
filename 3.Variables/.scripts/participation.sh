@@ -23,8 +23,8 @@ echo "| :x:                | Projet inexistant             |"
 echo ""
 echo "## Résultat"
 echo ""
-echo "|:hash:| Boréal :id:                | :100:              |"
-echo "|------|----------------------------|--------------------|"
+echo "|:hash:| Boréal :id:                | Fait               | Éxécution |"
+echo "|------|----------------------------|--------------------|-----------|"
 
 i=0
 
@@ -37,7 +37,7 @@ do
    else
        OK_FILE="[:x:]"
    fi
-   OK="| ${i} | [${id}](../${FILE}) - ${U_AVATAR} | ${OK_FILE} | "
+   OK="| ${i} | [${id}](../${FILE}) - ${U_AVATAR} | ${OK_FILE} | [:construction:](.scripts/Correction.md#etudiant-${id}) | "
    echo ${OK}
    let "i++"
 done
