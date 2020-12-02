@@ -14,7 +14,7 @@
 |-----------|---------|-----------------------------------------------------|----------|------------------|
 | :one:     | Quizz   | Pre Test                                            | 20       | :+1:             |
 | :two:     | Participation  | Devoirs Python jusqu'aux [fonctions](../7.Functions) | 15       | :+1:             |
-| :three:   | Quizz   | Fonctions.                                          | 25       | :calendar:       |
+| :three:   | Quizz   | Fonctions et FP-Loops                               | 25       | :calendar:       |
 | :four:    | Participation  | Devoirs Python après les fonctions         | 15       | :calendar:       |
 | :five:    | Quizz   | Final                                               | 25       | :calendar:       |
 |:wavy_dash:|         |                                                     |:100:     |                  |
