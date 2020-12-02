@@ -1,4 +1,4 @@
-# Corrections au 02-12-2020 16:34
+# Corrections au 02-12-2020 16:40
 
 ## Etudiant 300106677 
 ###  =[BEGIN - <image src='https://avatars0.githubusercontent.com/u/71027895?s=460&v=4' width=20 height=20></image> ]============== Exécution du script 300106677 =============== 
@@ -52,10 +52,10 @@ L'affichage de l'indice 1 de mon tuple est:
 ## Etudiant 300122014 
 ###  =[BEGIN - <image src='https://avatars0.githubusercontent.com/u/71392439?s=460&v=4' width=20 height=20></image> ]============== Exécution du script 300122014 =============== 
 ```
-A
-sylvain
-300122014
-enseignant
+Traceback (most recent call last):
+  File "300122014.py", line 1, in <module>
+    print (a)
+NameError: name 'a' is not defined
 ```
 ###  =[END - <image src='https://avatars0.githubusercontent.com/u/71392439?s=460&v=4' width=20 height=20></image> ]=============== Exécution du script 300122014 =============== 
 ## Etudiant 300122131 
