@@ -17,9 +17,9 @@
 |                   | [x * 2 \| x <- [1..10], x * 2 >= 12]    | [x * 2 for x in range( 1, 10) if x * 2 >= 12]  |
 |                   | [x\|x<-[50..100],x\`mod\`7==3]          | [x for x in range(50, 100) if x % 7 == 3]      |
 
-### :m: Data Structure using Comprehensions
+### :m: Data Structure using Comprehensions 
 
-|  Source Code `Syntactic Sugar`| Type                                         | Francais |
+|  Source Code `Syntactic Sugar`| Type                                         | Structures de données |
 |-------------------------------|----------------------------------------------|----------|
 | `[ n*n for n in range(5) ]`   | [List]() comprehension `list()` same as `[]` | Liste.   |
 | `{ n*n for n in range(5) }`   | [Set]() comprehension `set()` same as `{}`   | Ensemble | 
