@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 ID: 300122014
-
 pratique de Strings 
 """
 # pour un caractere 
@@ -24,6 +23,16 @@ print(s + " " + nom)
 longueur = len(nom)
 
 print(longueur)
+
+
+#definir python
+b= "python"
+d= " est un langage de programmation interprété, multi-paradigme et multiplateformes."
+
+print (b + " " + d )
+
+longueur = len(d)
+
 
 
 
