@@ -1,4 +1,4 @@
-# Corrections au 02-12-2020 15:50
+# Corrections au 02-12-2020 16:04
 
 ## Etudiant 300106677 
 ###  =[BEGIN - <image src='https://avatars0.githubusercontent.com/u/71027895?s=460&v=4' width=20 height=20></image> ]============== Exécution du script 300106677 =============== 
@@ -58,6 +58,10 @@ bonjour le monde
 chaine de caractere BONJOUR TOUT LE MONDE!
 entier 1
 reel 4.5
+nom du collège collège boreal
+numéro 5144041822
+programme d'etude technique du genie informatique
+diplome DEC: Diplome d'étude collégiale
 ```
 ###  =[END - <image src='https://avatars0.githubusercontent.com/u/71392439?s=460&v=4' width=20 height=20></image> ]=============== Exécution du script 300122014 =============== 
 ## Etudiant 300122131 
