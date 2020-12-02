@@ -1,0 +1,6 @@
+def  add_sub ( n1 , n2 ):
+    ajouter  =  n1  +  n2
+    sous  =  n1  -  n2
+    retour ( ajouter , sous )
+
+( a , b ) =  add_sub ( 3 , 4 )
