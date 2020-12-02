@@ -1,4 +1,4 @@
-# Execution au 02-12-2020 16:49
+# Execution au 02-12-2020 16:56
 
 ## Etudiant 300106677 
 ###  =[BEGIN - <image src='https://avatars0.githubusercontent.com/u/71027895?s=460&v=4' width=20 height=20></image> ]============== Exécution du script 300106677 =============== 
@@ -42,6 +42,12 @@ python: can't open file 'b300115206.py': [Errno 2] No such file or directory
 ## Etudiant 300122014 
 ###  =[BEGIN - <image src='https://avatars0.githubusercontent.com/u/71392439?s=460&v=4' width=20 height=20></image> ]============== Exécution du script 300122014 =============== 
 ```
+(7, -1)
+(30, -10)
+(60, -30)
+(100, -50)
+(117, -21)
+(180, -40)
 ```
 ###  =[END - <image src='https://avatars0.githubusercontent.com/u/71392439?s=460&v=4' width=20 height=20></image> ]================ Exécution du script 300122014 =============== 
 
