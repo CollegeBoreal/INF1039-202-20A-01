@@ -1,4 +1,4 @@
-# Corrections au 02-12-2020 17:16
+# Corrections au 02-12-2020 20:26
 
 ## Etudiant 300106677 
 ###  =[BEGIN - <image src='https://avatars0.githubusercontent.com/u/71027895?s=460&v=4' width=20 height=20></image> ]============== Exécution du script 300106677 =============== 
