@@ -1,4 +1,4 @@
-# Corrections au 02-12-2020 16:18
+# Corrections au 02-12-2020 16:28
 
 ## Etudiant 300106677 
 ###  =[BEGIN - <image src='https://avatars0.githubusercontent.com/u/71027895?s=460&v=4' width=20 height=20></image> ]============== Exécution du script 300106677 =============== 
@@ -13,6 +13,10 @@ hello college
 ###  =[BEGIN - <image src='https://avatars0.githubusercontent.com/u/72874987?s=460&v=4' width=20 height=20></image> ]============== Exécution du script 300115064 =============== 
 ```
 Bonjour
+Traceback (most recent call last):
+  File "300115064.py", line 4, in <module>
+    print(number-one)
+NameError: name 'number' is not defined
 ```
 ###  =[END - <image src='https://avatars0.githubusercontent.com/u/72874987?s=460&v=4' width=20 height=20></image> ]=============== Exécution du script 300115064 =============== 
 ## Etudiant 300115206 
