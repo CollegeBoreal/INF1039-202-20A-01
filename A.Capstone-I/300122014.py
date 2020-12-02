@@ -19,7 +19,7 @@ print ("minutes_part")
 s="bienvenue dans mon programme de conversion"
 print(s)
 #recuperation du nombre de minute
-a=float(input("entrer le nombre de minute"))
+a=float(input("entrer le nombre de minute à convertir"))
 #calcul de lheure
 b=a/60
 #affichage de lheure partie entiere
