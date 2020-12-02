@@ -1,4 +1,4 @@
-# Corrections au 02-12-2020 16:13
+# Corrections au 02-12-2020 16:18
 
 ## Etudiant 300106677 
 ###  =[BEGIN - <image src='https://avatars0.githubusercontent.com/u/71027895?s=460&v=4' width=20 height=20></image> ]============== Exécution du script 300106677 =============== 
@@ -54,6 +54,7 @@ Bonjour
 Bonjour Boreal
 6
 python  est un langage de programmation interprété, multi-paradigme et multiplateformes.
+81
 ```
 ###  =[END - <image src='https://avatars0.githubusercontent.com/u/71392439?s=460&v=4' width=20 height=20></image> ]=============== Exécution du script 300122014 =============== 
 ## Etudiant 300122131 
