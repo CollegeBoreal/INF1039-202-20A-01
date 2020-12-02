@@ -33,6 +33,7 @@ print (b + " " + d )
 
 longueur = len(d)
 
+print (longueur)
 
 
 
