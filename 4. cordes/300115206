@@ -1,0 +1,9 @@
+ -*- coding: utf-8 -*-
+"""
+Created on Wed Dec  2 03:04:48 2020
+
+@author: Jojo
+"""
+
+a  =  "Bonjour Boreal"
+print ( a )
