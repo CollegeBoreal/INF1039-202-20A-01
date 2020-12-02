@@ -1,4 +1,4 @@
-# Corrections au 02-12-2020 17:05
+# Corrections au 02-12-2020 17:07
 
 ## Etudiant 300106677 
 ###  =[BEGIN - <image src='https://avatars0.githubusercontent.com/u/71027895?s=460&v=4' width=20 height=20></image> ]============== Exécution du script 300106677 =============== 
@@ -55,9 +55,9 @@ hours_part
 minutes
 minutes_part
 bienvenue dans mon programme de conversion
-entrer le nombre de minuteTraceback (most recent call last):
+entrer le nombre de minute à convertirTraceback (most recent call last):
   File "300122014.py", line 22, in <module>
-    a=float(input("entrer le nombre de minute"))
+    a=float(input("entrer le nombre de minute à convertir"))
 EOFError: EOF when reading a line
 ```
 ###  =[END - <image src='https://avatars0.githubusercontent.com/u/71392439?s=460&v=4' width=20 height=20></image> ]=============== Exécution du script 300122014 =============== 
