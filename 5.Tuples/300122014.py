@@ -1,7 +1,24 @@
-#ID300122014
-a='A'
 print (a)
 etudiant =("sylvain",300122014,"enseignant")
 print(etudiant[0])
 print(etudiant[1])
 print(etudiant[2])
+
+
+cours =("maths" ,10,"francais" ,20, "reseautique",30, "algorithme" ,40,"anglais" ,50,"logiciel" ,60,"systeme exploitation",70, "fin")
+
+print (cours[0])
+print (cours[1])
+print (cours[2])
+print (cours[3])
+print (cours[4])
+print (cours[5])
+print (cours[6])
+print (cours[7])
+print (cours[8])
+print (cours[9])
+print (cours[10])
+print (cours[11])
+print (cours[12])
+print (cours[13])
+print (cours[14])
