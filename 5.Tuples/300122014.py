@@ -1,3 +1,4 @@
+a='A'
 print (a)
 etudiant =("sylvain",300122014,"enseignant")
 print(etudiant[0])
