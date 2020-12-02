@@ -19,11 +19,11 @@
 
 ### :m: Data Structure using Comprehensions
 
-|  Source Code `Syntactic Sugar`| Type                           |
-|-------------------------------|--------------------------------|
-| `[ n*n for n in range(5) ]`   | [List]() comprehension `list()` same as `[]` |
-| `{ n*n for n in range(5) }`   | [Set]() comprehension `set()` same as `{}` |
-| `{ n: n*n for n in range(5)}` | [Dict]() comprehension `dict()` same as `{}` |
+|  Source Code `Syntactic Sugar`| Type                                         | Francais |
+|-------------------------------|----------------------------------------------|----------|
+| `[ n*n for n in range(5) ]`   | [List]() comprehension `list()` same as `[]` | Liste.   |
+| `{ n*n for n in range(5) }`   | [Set]() comprehension `set()` same as `{}`   | Ensemble | 
+| `{ n: n*n for n in range(5)}` | [Dict]() comprehension `dict()` same as `{}` | Dictionnaire (Hashtable) |
 
 ### :m: immutable Data Structure using Sequence Unpacking
 
