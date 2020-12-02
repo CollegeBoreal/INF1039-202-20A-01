@@ -1,4 +1,4 @@
-# Participation au 02-12-2020 16:04
+# Participation au 02-12-2020 16:06
 
 ## Légende
 
@@ -18,4 +18,4 @@
 | 4 | [300117811](../300117811) - <image src='https://avatars0.githubusercontent.com/u/71027809?s=460&v=4' width=20 height=20></image> | [:heavy_check_mark:](../300117811.md) |
 | 5 | [300121460](../300121460) - <image src='https://avatars0.githubusercontent.com/u/71027883?s=460&v=4' width=20 height=20></image> | [:heavy_check_mark:](../300121460.md) |
 | 6 | [300122014](../300122014) - <image src='https://avatars0.githubusercontent.com/u/71392439?s=460&v=4' width=20 height=20></image> | [:heavy_check_mark:](../300122014.md) |
-| 7 | [300122131](../300122131) - <image src='https://avatars0.githubusercontent.com/u/71394111?s=460&v=4' width=20 height=20></image> | [:x:] |
+| 7 | [300122131](../300122131) - <image src='https://avatars0.githubusercontent.com/u/71394111?s=460&v=4' width=20 height=20></image> | [:heavy_check_mark:](../300122131.md) |

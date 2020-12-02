@@ -1,4 +1,4 @@
-# Corrections au 02-12-2020 16:04
+# Corrections au 02-12-2020 16:06
 
 ## Etudiant 300106677 
 ###  =[BEGIN - <image src='https://avatars0.githubusercontent.com/u/71027895?s=460&v=4' width=20 height=20></image> ]============== Exécution du script 300106677 =============== 
@@ -61,9 +61,8 @@ enseignant
 ## Etudiant 300122131 
 ###  =[BEGIN - <image src='https://avatars0.githubusercontent.com/u/71394111?s=460&v=4' width=20 height=20></image> ]============== Exécution du script 300122131 =============== 
 ```
-Traceback (most recent call last):
-  File "300122131.py", line 4, in <module>
-    print(steve[0])
-NameError: name 'steve' is not defined
+brice
+300122131
+steve
 ```
 ###  =[END - <image src='https://avatars0.githubusercontent.com/u/71394111?s=460&v=4' width=20 height=20></image> ]=============== Exécution du script 300122131 =============== 
