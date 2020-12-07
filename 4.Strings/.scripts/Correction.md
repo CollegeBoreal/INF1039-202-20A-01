@@ -1,4 +1,4 @@
-# Corrections au 07-12-2020 04:06
+# Corrections au 07-12-2020 04:07
 
 ## Etudiant 300106677 
 ###  =[BEGIN - <image src='https://avatars0.githubusercontent.com/u/71027895?s=460&v=4' width=20 height=20></image> ]============== Exécution du script 300106677 =============== 
@@ -22,7 +22,10 @@ NameError: name 'number' is not defined
 ## Etudiant 300115206 
 ###  =[BEGIN - <image src='https://avatars0.githubusercontent.com/u/73952068?s=460&v=4' width=20 height=20></image> ]============== Exécution du script 300115206 =============== 
 ```
-python3: can't open file '300115206.py': [Errno 2] No such file or directory
+chaine de caractere Bonjour 
+ entier 1
+ reel 4.6
+hello college
 ```
 ###  =[END - <image src='https://avatars0.githubusercontent.com/u/73952068?s=460&v=4' width=20 height=20></image> ]=============== Exécution du script 300115206 =============== 
 ## Etudiant 300117791 
