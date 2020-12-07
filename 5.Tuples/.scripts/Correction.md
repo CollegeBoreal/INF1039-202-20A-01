@@ -1,4 +1,4 @@
-# Corrections au 07-12-2020 10:17
+# Corrections au 07-12-2020 10:19
 
 ## Etudiant 300106677 
 ###  =[BEGIN - <image src='https://avatars0.githubusercontent.com/u/71027895?s=460&v=4' width=20 height=20></image> ]============== Exécution du script 300106677 =============== 
@@ -18,7 +18,10 @@ Naoufal
 ## Etudiant 300115206 
 ###  =[BEGIN - <image src='https://avatars0.githubusercontent.com/u/73952068?s=460&v=4' width=20 height=20></image> ]============== Exécution du script 300115206 =============== 
 ```
-python3: can't open file '300115206.py': [Errno 2] No such file or directory
+Traceback (most recent call last):
+  File "300115206.py", line 9, in <module>
+    imprimer ( etudiant [ 0 ])
+NameError: name 'imprimer' is not defined
 ```
 ###  =[END - <image src='https://avatars0.githubusercontent.com/u/73952068?s=460&v=4' width=20 height=20></image> ]=============== Exécution du script 300115206 =============== 
 ## Etudiant 300117791 
