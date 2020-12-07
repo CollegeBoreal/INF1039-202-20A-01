@@ -1,4 +1,4 @@
-# Corrections au 07-12-2020 04:05
+# Corrections au 07-12-2020 04:06
 
 ## Etudiant 300106677 
 ###  =[BEGIN - <image src='https://avatars0.githubusercontent.com/u/71027895?s=460&v=4' width=20 height=20></image> ]============== Exécution du script 300106677 =============== 
@@ -17,7 +17,13 @@ chaine de caractere Bonjour le monde
 ## Etudiant 300115206 
 ###  =[BEGIN - <image src='https://avatars0.githubusercontent.com/u/73952068?s=460&v=4' width=20 height=20></image> ]============== Exécution du script 300115206 =============== 
 ```
-python3: can't open file '300115206.py': [Errno 2] No such file or directory
+Chaine de caractère: Salut tout le monde!
+C'est un entier: 1
+C'est un réel: 4.6
+Entrer la valeur de a:Traceback (most recent call last):
+  File "300115206.py", line 19, in <module>
+    a=float(input("Entrer la valeur de a:"))
+EOFError: EOF when reading a line
 ```
 ###  =[END - <image src='https://avatars0.githubusercontent.com/u/73952068?s=460&v=4' width=20 height=20></image> ]=============== Exécution du script 300115206 =============== 
 ## Etudiant 300117791 
