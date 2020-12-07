@@ -1,4 +1,4 @@
-# Corrections au 07-12-2020 03:57
+# Corrections au 07-12-2020 03:59
 
 ## Etudiant 300106677 
 ###  =[BEGIN - <image src='https://avatars0.githubusercontent.com/u/71027895?s=460&v=4' width=20 height=20></image> ]============== Exécution du script 300106677 =============== 
@@ -17,10 +17,13 @@ minutes_part
 ## Etudiant 300115206 
 ###  =[BEGIN - <image src='https://avatars0.githubusercontent.com/u/73952068?s=460&v=4' width=20 height=20></image> ]============== Exécution du script 300115206 =============== 
 ```
-Traceback (most recent call last):
-  File "300115206.py", line 1, in <module>
-    print: salut
-NameError: name 'salut' is not defined
+******************
+The hour is:
+ 2
+******************
+The minutes are:
+ 3
+******************
 ```
 ###  =[END - <image src='https://avatars0.githubusercontent.com/u/73952068?s=460&v=4' width=20 height=20></image> ]=============== Exécution du script 300115206 =============== 
 ## Etudiant 300117791 
