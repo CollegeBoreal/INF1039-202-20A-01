@@ -1,4 +1,4 @@
-# Corrections au 09-12-2020 12:24
+# Corrections au 09-12-2020 12:32
 
 ## Etudiant 300106677 
 ###  =[BEGIN - <image src='https://avatars0.githubusercontent.com/u/71027895?s=460&v=4' width=20 height=20></image> ]============== Exécution du script 300106677 =============== 
@@ -29,9 +29,10 @@ EOFError: EOF when reading a line
 ## Etudiant 300117791 
 ###  =[BEGIN - <image src='https://avatars0.githubusercontent.com/u/73952191?s=460&v=4' width=20 height=20></image> ]============== Exécution du script 300117791 =============== 
 ```
-Chaine de charactere Bonjour tout le monde!
-Entier 1
-Reel 4.6
+  File "300117791.py", line 14
+    U =0,01
+          ^
+SyntaxError: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
 ```
 ###  =[END - <image src='https://avatars0.githubusercontent.com/u/73952191?s=460&v=4' width=20 height=20></image> ]=============== Exécution du script 300117791 =============== 
 ## Etudiant 300117811 
