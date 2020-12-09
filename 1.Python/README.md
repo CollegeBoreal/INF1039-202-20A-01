@@ -1,11 +1,4 @@
-# Python
+ID300117791
+Mon premier programme 
+print(bonjour Boreal/n')
 
-
-## Evaluation
-
-Creér votre premier programme en Python :snake:
-
-https://www.python.org/shell/
-
-
-# [Participation](.scripts/Participation.md)
