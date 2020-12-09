@@ -1,4 +1,4 @@
-# Corrections au 09-12-2020 11:54
+# Corrections au 09-12-2020 12:23
 
 ## Etudiant 300106677 
 ###  =[BEGIN - <image src='https://avatars0.githubusercontent.com/u/71027895?s=460&v=4' width=20 height=20></image> ]============== Exécution du script 300106677 =============== 
@@ -31,7 +31,16 @@ hello college
 ## Etudiant 300117791 
 ###  =[BEGIN - <image src='https://avatars0.githubusercontent.com/u/73952191?s=460&v=4' width=20 height=20></image> ]============== Exécution du script 300117791 =============== 
 ```
-1
+a
+Bonjour
+Bonjour Boreal
+6
+ bonsoir
+Toronto 300117791
+Traceback (most recent call last):
+  File "300117791.py", line 30, in <module>
+    longeur = name(Misé)
+NameError: name 'name' is not defined
 ```
 ###  =[END - <image src='https://avatars0.githubusercontent.com/u/73952191?s=460&v=4' width=20 height=20></image> ]=============== Exécution du script 300117791 =============== 
 ## Etudiant 300117811 
