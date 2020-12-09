@@ -18,5 +18,5 @@
 | 4 | 300117811 - <image src='https://avatars0.githubusercontent.com/u/71027809?s=460&v=4' width=20 height=20></image> | :x: |
 | 5 | [300121460](https://github.com/Daveinfo20/lab-exercices-de-codage-en-python) - <image src='https://avatars0.githubusercontent.com/u/71027883?s=460&v=4' width=20 height=20></image> | :heavy_check_mark: |
 | 6 | [300122014](https://github.com/sylvainEmm/lab-exercices-de-codage-en-python) - <image src='https://avatars0.githubusercontent.com/u/71392439?s=460&v=4' width=20 height=20></image> | :heavy_check_mark: |
-| 7 | 300122131 - <image src='https://avatars0.githubusercontent.com/u/71394111?s=460&v=4' width=20 height=20></image> | :heavy_check_mark:|
+| 7 | 300122131 - <image src='https://avatars0.githubusercontent.com/u/71394111?s=460&v=4' width=20 height=20></image> | :x:|
 
