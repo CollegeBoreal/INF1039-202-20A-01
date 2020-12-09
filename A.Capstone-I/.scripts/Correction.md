@@ -1,4 +1,4 @@
-# Corrections au 07-12-2020 10:19
+# Corrections au 09-12-2020 11:27
 
 ## Etudiant 300106677 
 ###  =[BEGIN - <image src='https://avatars0.githubusercontent.com/u/71027895?s=460&v=4' width=20 height=20></image> ]============== Exécution du script 300106677 =============== 
@@ -29,7 +29,10 @@ The minutes are:
 ## Etudiant 300117791 
 ###  =[BEGIN - <image src='https://avatars0.githubusercontent.com/u/73952191?s=460&v=4' width=20 height=20></image> ]============== Exécution du script 300117791 =============== 
 ```
-python3: can't open file '300117791.py': [Errno 2] No such file or directory
+hours
+hours_part
+minutes
+minutes_part
 ```
 ###  =[END - <image src='https://avatars0.githubusercontent.com/u/73952191?s=460&v=4' width=20 height=20></image> ]=============== Exécution du script 300117791 =============== 
 ## Etudiant 300117811 
