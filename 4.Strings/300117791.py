@@ -28,3 +28,4 @@ I ="300117791"
 print (canada+" "+I)
 
 longeur = name(Misé)
+print(longeur) 
