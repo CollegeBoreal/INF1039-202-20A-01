@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# Participation au 10-12-2020 17:45
-=======
-# Participation au 10-12-2020 22:45
->>>>>>> 31ca281c4a5f1a317d7760b92ac5c3261ac00baf
+# Participation au 10-12-2020 22:47
 
 ## Légende
 

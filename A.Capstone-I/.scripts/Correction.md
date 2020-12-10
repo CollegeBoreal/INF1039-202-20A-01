@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# Corrections au 10-12-2020 17:45
-=======
-# Corrections au 10-12-2020 22:45
->>>>>>> 31ca281c4a5f1a317d7760b92ac5c3261ac00baf
+# Corrections au 10-12-2020 22:47
 
 ## Etudiant 300106677 
 ###  =[BEGIN - <image src='https://avatars0.githubusercontent.com/u/71027895?s=460&v=4' width=20 height=20></image> ]============== Exécution du script 300106677 =============== 
@@ -65,27 +61,19 @@ hours_part
 minutes
 minutes_part
 bienvenue dans mon programme de conversion
-<<<<<<< HEAD
-entrer le nombre de minute à convertirvotre nombre dheure est de  2 heure(s) 0 mminute(s)
-=======
 entrer le nombre de minute à convertirTraceback (most recent call last):
   File "300122014.py", line 22, in <module>
     a=float(input("entrer le nombre de minute à convertir"))
 EOFError: EOF when reading a line
->>>>>>> 31ca281c4a5f1a317d7760b92ac5c3261ac00baf
 ```
 ###  =[END - <image src='https://avatars0.githubusercontent.com/u/71392439?s=460&v=4' width=20 height=20></image> ]=============== Exécution du script 300122014 =============== 
 ## Etudiant 300122131 
 ###  =[BEGIN - <image src='https://avatars0.githubusercontent.com/u/71394111?s=460&v=4' width=20 height=20></image> ]============== Exécution du script 300122131 =============== 
 ```
 bienvenue dans mon programme de conversion
-<<<<<<< HEAD
-entrer le nombre de minute```
-=======
 entrer le nombre de minuteTraceback (most recent call last):
   File "300122131.py", line 12, in <module>
     a=float(input("entrer le nombre de minute"))
 EOFError: EOF when reading a line
 ```
->>>>>>> 31ca281c4a5f1a317d7760b92ac5c3261ac00baf
 ###  =[END - <image src='https://avatars0.githubusercontent.com/u/71394111?s=460&v=4' width=20 height=20></image> ]=============== Exécution du script 300122131 =============== 
