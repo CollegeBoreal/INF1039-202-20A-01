@@ -20,7 +20,7 @@ do
    echo "###  =[BEGIN - ${U_AVATAR} ]============== Exécution du script ${id} =============== "
    echo "\`\`\`"
 
-   python3 ${id}.py
+   echo 120 | python3 ${id}.py
 
 
    echo "\`\`\`"

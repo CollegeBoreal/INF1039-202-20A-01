@@ -1,4 +1,4 @@
-# Corrections au 10-12-2020 17:45
+# Corrections au 10-12-2020 22:47
 
 ## Etudiant 300106677 
 ###  =[BEGIN - <image src='https://avatars0.githubusercontent.com/u/71027895?s=460&v=4' width=20 height=20></image> ]============== Exécution du script 300106677 =============== 
@@ -61,6 +61,7 @@ hours_part
 minutes
 minutes_part
 bienvenue dans mon programme de conversion
+<<<<<<< HEAD
 entrer le nombre de minute à convertirvotre nombre dheure est de  2 heure(s) 0 mminute(s)
 ```
 ###  =[END - <image src='https://avatars0.githubusercontent.com/u/71392439?s=460&v=4' width=20 height=20></image> ]=============== Exécution du script 300122014 =============== 
@@ -68,5 +69,6 @@ entrer le nombre de minute à convertirvotre nombre dheure est de  2 heure(s) 0 
 ###  =[BEGIN - <image src='https://avatars0.githubusercontent.com/u/71394111?s=460&v=4' width=20 height=20></image> ]============== Exécution du script 300122131 =============== 
 ```
 bienvenue dans mon programme de conversion
+<<<<<<< HEAD
 entrer le nombre de minute```
 ###  =[END - <image src='https://avatars0.githubusercontent.com/u/71394111?s=460&v=4' width=20 height=20></image> ]=============== Exécution du script 300122131 =============== 
