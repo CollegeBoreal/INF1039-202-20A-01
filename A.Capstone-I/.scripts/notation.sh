@@ -24,6 +24,7 @@ do
 
 
    echo "\`\`\`"
+
    echo "###  =[END - ${U_AVATAR} ]=============== Exécution du script ${id} =============== "
    let "i++"
 
