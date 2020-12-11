@@ -78,4 +78,4 @@ $ git push
 
 :bookmark: Solution
 
-![image](images/pairs.png)
+<img src="images/pairs.png" width="858" height="66"></img>
