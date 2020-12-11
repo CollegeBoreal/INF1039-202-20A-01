@@ -15,7 +15,6 @@ Introduction a la programmation
 |04|20-11-11|[A.Capstone-I](A.Capstone-I)   | Devoirs fin Unite 1    | [:student:](A.Capstone-I/.scripts/Participation.md) |
 |05|20-11-18|[7.Functions](7.Functions)     | Devoirs sur fonctions  | [:student:](7.Functions/.scripts/Participation.md)  |
 |05|20-12-02|[8.FP-Loops](8.FP-Loops)       | Devoirs sur Loops      | [:student:](8.FP-Loops/.scripts/Participation.md)  |
-|08|20-11-??|[B.Capstone-II](B.Capstone-II) | Devoirs fin Unite 2    | [:student:](B.Capstone-II/.scripts/Participation.md)|
 
 #### :a: Tests
 
