@@ -27,6 +27,7 @@
 ```python
 # -*- coding: utf-8 -*-
 """
+Enlever le commentaire
 
 @author: b300098957
 """
@@ -43,7 +44,7 @@ if __name__== "__main__":
 ```python
 # -*- coding: utf-8 -*-
 """
-Impression d'une chaine de caratere 
+Impression d'une chaine de carateres 
 contenant le mot 'Bonjour'
 
 @author: b300098957
@@ -65,6 +66,7 @@ if __name__== "__main__":
 ```python
 # -*- coding: utf-8 -*-
 """
+Inversion d'un tuple
 
 @author: b300098957
 """
