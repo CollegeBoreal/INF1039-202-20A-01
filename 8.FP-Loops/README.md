@@ -68,6 +68,14 @@ $ git add ./
 $ git commit --message "Mon programme en python :snake:"
 ```
 
+- [ ] Récuperer les dernières informations de `github`: 
+
+```
+$ git pull
+```
+
+:bulb: Pour valider la récupération dans nano utiliser la combinaison - `^O WriteOut` + `Enter` (pour accepter le nom du fichier) + `^X Exit`
+
 - [ ] L'envoyer sur `github.com`
 
 ```
