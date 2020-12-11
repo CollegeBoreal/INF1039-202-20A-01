@@ -17,6 +17,13 @@ Introduction a la programmation
 |05|20-12-02|[8.FP-Loops](8.FP-Loops)       | Devoirs sur Loops      | [:student:](8.FP-Loops/.scripts/Participation.md)  |
 |08|20-11-??|[B.Capstone-II](B.Capstone-II) | Devoirs fin Unite 2    | [:student:](B.Capstone-II/.scripts/Participation.md)|
 
+#### :a: Tests
+
+|No| Date   | Cours                                                | Intitulé               |  Commentaires                                          |
+|--|--------|:-----------------------------------------------------|:-----------------------|:-------------------------------------------------------|
+|00|20-12-09|[Y.lab-codage-I](Y.lab-exercices-de-codage-en-python) | Laboratoire Noté       | [:student:](Y.lab-codage-I/.scripts/Participation.md)  |
+
+
 ## :two: Elements de Performance
 
 |No| Date   | Cours                                          | Intitulé                                |  Commentaires     |
