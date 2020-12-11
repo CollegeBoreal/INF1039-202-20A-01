@@ -1,4 +1,4 @@
-# Participation au 09-12-2020 12:32
+# Participation au 11-12-2020 07:30
 
 ## Légende
 
@@ -22,7 +22,27 @@
 
 ## Solutions
 
+- [x] Exercice :one:
 
+```python
+# -*- coding: utf-8 -*-
+"""
+
+@author: 300098957
+"""
+
+```
+
+- [x] Exercice :two:
+
+```python
+# -*- coding: utf-8 -*-
+"""
+
+@author: 300098957
+"""
+
+```
 
 - [x] Exercice :three:
 
