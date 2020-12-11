@@ -45,7 +45,7 @@ if __name__ == '__main__':
 
 - [ ] Code de la Fonction appellée `fonction_1()`
 
-Dans la leçon vu la semaine dernière sur la programmation fonctionnelle [F.FP](../F.FP), trouver la liste suivante:
+Dans la leçon vu la semaine dernière sur la programmation fonctionnelle [F.FP](https://github.com/CollegeBoreal/INF1039-202-20A-01/tree/master/F.FP#m-data-structure-using-comprehensions), trouver la liste suivante:
 
 > Ramenez les 20 premiers éléments d'une liste de nombre pairs commençant par zéro.
 
