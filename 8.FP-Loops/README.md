@@ -33,7 +33,8 @@ Created on <changer la date>
 """
 
 def fonction_1():
-   return [ x for x in range(0,21) if x % 2 == 0 ]
+   pairs = [ x for x in range(0,21) if x % 2 == 0 ] 
+   return pairs
    
 def main():
    print (fonction_1())
