@@ -43,10 +43,21 @@ if __name__== "__main__":
 ```python
 # -*- coding: utf-8 -*-
 """
+Impression d'une chaine de caratere 
+contenant le mot 'Bonjour'
 
 @author: b300098957
 """
 
+def exo_02():
+  s = "Bonjour"
+  return s
+
+def main():
+  print( exo_02() )
+
+if __name__== "__main__":
+  main()
 ```
 
 - [x] Exercice :three:
