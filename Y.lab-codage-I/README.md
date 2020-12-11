@@ -24,7 +24,7 @@
 
 
 
-- [x] Exercice :03:
+- [x] Exercice :three:
 
 ```python
 # -*- coding: utf-8 -*-
