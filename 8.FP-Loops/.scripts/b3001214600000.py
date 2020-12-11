@@ -3,7 +3,7 @@ import pytest
  
 @pytest.fixture
 def bypass():
-   from b300121460 import add_sub
+   from b300121460 import fonction_1
    return fonction_1() 
  
 def test_answer(bypass):
