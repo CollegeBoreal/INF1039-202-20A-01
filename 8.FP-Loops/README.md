@@ -74,6 +74,8 @@ $ git commit --message "Mon programme en python :snake:"
 $ git push
 ```
 
+## [Participation](.scripts/Participation.md)
+
 :bookmark: Solution
 
 <img src="images/pairs.png" alt="Solution" width="429" height="33"></img>
