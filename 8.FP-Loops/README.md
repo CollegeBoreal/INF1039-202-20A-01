@@ -76,4 +76,4 @@ $ git push
 
 :bookmark: Solution
 
-<img src="images/pairs.png" width="858" height="66" > </img>
+<img src="images/pairs.png" alt="Solution" width="858" height="66"></img>
