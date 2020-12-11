@@ -39,7 +39,7 @@ i=0
 for id in "${ETUDIANTS[@]}"
 do
    U_AVATAR="<image src='https://avatars0.githubusercontent.com/u/${AVATARS[$i]}?s=460&v=4' width=20 height=20></image>"
-   FILE=b${id}.py
+   FILE=${id}/b${id}.py
    OK="| ${i} | [${id}](../${FILE}) - ${U_AVATAR} | [:heavy_check_mark:](Execution.md#etudiant-${id}) | "
    KO="| ${i} | [${id}](../${FILE}) - ${U_AVATAR} | [:x:](Execution.md#etudiant-${id})                | "
    if [ -f "$FILE" ]; then
