@@ -8,13 +8,14 @@ Introduction a la programmation
 
 |No| Date   | Cours                         | Intitulé               |  Commentaires                                       |
 |--|--------|:------------------------------|:-----------------------|:----------------------------------------------------|
-|00|20-10-14|[0.GIT](0.GIT)                 | Devoirs sur GIT.       | [:student:](.scripts/Participation.md)  |
+|00|20-10-14|[0.GIT](0.GIT)                 | Devoirs sur GIT.       | [:student:](.scripts/Participation.md)              |
 |01|20-10-21|[3.Variables](3.Variables)     | Devoirs sur Variables  | [:student:](3.Variables/.scripts/Participation.md)  |
 |02|20-10-28|[4.Strings](4.Strings)         | Devoirs sur Strings    | [:student:](4.Strings/.scripts/Participation.md)    |
 |03|20-11-04|[5.Tuples](5.Tuples)           | Devoirs sur Tuples     | [:student:](5.Tuples/.scripts/Participation.md)     |
 |04|20-11-11|[A.Capstone-I](A.Capstone-I)   | Devoirs fin Unite 1    | [:student:](A.Capstone-I/.scripts/Participation.md) |
 |05|20-11-18|[7.Functions](7.Functions)     | Devoirs sur fonctions  | [:student:](7.Functions/.scripts/Participation.md)  |
-|05|20-12-02|[8.FP-Loops](8.FP-Loops)       | Devoirs sur Loops      | [:student:](8.FP-Loops/.scripts/Participation.md)  |
+|. |        |                               |                        |                                                     |
+|06|20-12-02|[8.FP-Loops](8.FP-Loops)       | Devoirs sur Loops      | [:student:](8.FP-Loops/.scripts/Participation.md)   |
 
 #### :a: Tests
 
