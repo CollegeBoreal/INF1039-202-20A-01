@@ -19,9 +19,9 @@ Introduction a la programmation
 
 #### :a: Tests
 
-|No| Date   | Cours                                                | Intitulé               |  Commentaires                                          |
-|--|--------|:-----------------------------------------------------|:-----------------------|:-------------------------------------------------------|
-|00|20-12-09|[Y.lab-codage-I](Y.lab-exercices-de-codage-en-python) | Laboratoire Noté       | [:student:](Y.lab-codage-I/.scripts/Participation.md)  |
+|No| Date   | Cours                           | Intitulé               |  Commentaires                                          |
+|--|--------|:--------------------------------|:-----------------------|:-------------------------------------------------------|
+|00|20-12-09|[Y.lab-codage-I](Y.lab-codage-I) | Laboratoire Noté       | [:student:](Y.lab-codage-I/.scripts/Participation.md)  |
 
 
 ## :two: Elements de Performance
