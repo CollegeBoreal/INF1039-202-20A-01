@@ -14,7 +14,7 @@ Introduction a la programmation
 |03|20-11-04|[5.Tuples](5.Tuples)           | Devoirs sur Tuples     | [:student:](5.Tuples/.scripts/Participation.md)     |
 |04|20-11-11|[A.Capstone-I](A.Capstone-I)   | Devoirs fin Unite 1    | [:student:](A.Capstone-I/.scripts/Participation.md) |
 |05|20-11-18|[7.Functions](7.Functions)     | Devoirs sur fonctions  | [:student:](7.Functions/.scripts/Participation.md)  |
-|. |        |                               |                        |                                                     |
+|  |        |                               |                        |                                                     |
 |06|20-12-02|[8.FP-Loops](8.FP-Loops)       | Devoirs sur Loops      | [:student:](8.FP-Loops/.scripts/Participation.md)   |
 
 #### :a: Tests
