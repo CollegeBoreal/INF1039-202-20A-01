@@ -47,8 +47,7 @@ if __name__ == '__main__':
 
 Dans la leçon vu la semaine dernière sur la programmation fonctionnelle [F.FP](F.FP), trouver la relation suivante:
 
-
- <img src="http://www.sciweavers.org/tex2img.php?eq=%20%20%5Cbig%5C%7Bx%20%7C%20x%20%20%5Cin%20%20%5Caleph%20%2C%20x%20%20%5Cleq%2020%20%2C%20x%20%20%5Cin%20pair%20%5Cbig%5C%7D%20&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0" align="center" border="0" alt="  \big\{x | x  \in  \aleph , x  \leq 20 , x  \in pair \big\} " width="215" height="21" />
+<img src="http://www.sciweavers.org/tex2img.php?eq=%20%20%5Cbig%5C%7Bx%20%7C%20x%20%20%5Cin%20%20%5Caleph%20%2C%20x%20%20%5Cleq%2020%20%2C%20x%20%20%5Cin%20pair%20%5Cbig%5C%7D%20&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0" align="center" border="0" alt="  \big\{x | x  \in  \aleph , x  \leq 20 , x  \in pair \big\} " width="215" height="21" /></img>
 
 Dans une liste 
 
