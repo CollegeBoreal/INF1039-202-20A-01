@@ -74,8 +74,6 @@ $ git commit --message "Mon programme en python :snake:"
 $ git push
 ```
 
----
-
 :bookmark: Solution
 
-<img src="images/pairs.png" width="858" height="66"></img>
+<img src="images/pairs.png" width="858" height="66" > </img>
