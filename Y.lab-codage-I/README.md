@@ -28,9 +28,14 @@
 # -*- coding: utf-8 -*-
 """
 
-@author: 300098957
+@author: b300098957
 """
 
+def main():
+  print('Informatique: le rêve')
+
+if __name__== "__main__":
+  main()
 ```
 
 - [x] Exercice :two:
@@ -39,7 +44,7 @@
 # -*- coding: utf-8 -*-
 """
 
-@author: 300098957
+@author: b300098957
 """
 
 ```
@@ -50,14 +55,13 @@
 # -*- coding: utf-8 -*-
 """
 
-@author: 300098957
+@author: b300098957
 """
 
 def exo_03(tuple):
   # Ajouter le code permettant d'inverser la tuple
   # sous la forme 'Decembre' 9 2020
-  tuple=(9,"decembre",2020)
-  a,b,c=tuple
+  a, b, c = tuple
   return (b, a , c)
 
 def main():
