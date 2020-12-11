@@ -20,3 +20,29 @@
 | 6 | [300122014](https://github.com/sylvainEmm/lab-exercices-de-codage-en-python) - <image src='https://avatars0.githubusercontent.com/u/71392439?s=460&v=4' width=20 height=20></image> | :heavy_check_mark: |
 | 7 | [300122131](https://github.com/emsed0/lab-exercices-de-codage-en-python) - <image src='https://avatars0.githubusercontent.com/u/71394111?s=460&v=4' width=20 height=20></image> | :x:|
 
+## Solutions
+
+
+
+- [x] Exercice :03:
+
+```python
+# -*- coding: utf-8 -*-
+"""
+
+@author: 300098957
+"""
+
+def exo_03(tuple):
+  # Ajouter le code permettant d'inverser la tuple
+  # sous la forme 'Decembre' 9 2020
+  tuple=(9,"decembre",2020)
+  a,b,c=tuple
+  return (b, a , c)
+
+def main():
+  print( exo_03( ( 9, 'Decembre' , 2020 ) ) )
+
+if __name__== "__main__":
+  main()
+```
