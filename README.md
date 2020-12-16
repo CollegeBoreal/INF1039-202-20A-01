@@ -22,6 +22,7 @@ Introduction a la programmation
 |No| Date   | Cours                           | Intitulé               |  Commentaires                                          |
 |--|--------|:--------------------------------|:-----------------------|:-------------------------------------------------------|
 |00|20-12-09|[Y.lab-codage-I](Y.lab-codage-I) | Laboratoire Noté       | [:student:](Y.lab-codage-I/.scripts/Participation.md)  |
+|00|20-12-17|[Z.lab-codage-II](Z.lab-codage-II) | Laboratoire Noté       | [:student:](Z.lab-codage-II/.scripts/Participation.md)  |
 
 
 ## :two: Elements de Performance
